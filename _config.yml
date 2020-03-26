@@ -62,12 +62,6 @@ instagram:          https://www.instagram.com/huan.sock/
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Archives
-category_archive:
-    type: liquid
-    path: /categories/
-
-    
 # Gems
 gems:
   - jekyll-mentions
