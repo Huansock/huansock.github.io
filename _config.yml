@@ -3,7 +3,7 @@ title:              Huansock
 bio:                '사소한 것들도 남기기 위해'
 description:        "글쓰기를 즐겨합니다."
 reading_time:       true
-words_per_minute:   100
+words_per_minute:   200
 logo:               'assets/img/test1.jpg'
 background:         'assets/img/In-the-mood-for-love4.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
@@ -30,12 +30,12 @@ disqus_shortname:   https-huansock-github-io-1
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+google:
+  plus:            #username
+  analytics: UA-154475684-1
+  verify:
+  ad-client:
+  ad-slot:
 #bing-verify:
 #email:
 twitter:            username
