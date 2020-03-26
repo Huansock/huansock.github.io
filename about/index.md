@@ -1,37 +1,33 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+title: About me
+tags: [about]
+date: 2020-03-26 22:15:54
+comments: true
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+# 환속의 블로그
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+약 1년 전 부터 혼자서 코딩을 배우고있다. 현재 html.css,js 를 잘 사용하고 Python과 Django도 사용할 줄 안다.  
 
-## Preview
+---
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+내 생각을 쓸 블로그를 찾고 있던 도중, Jekyll이라는 오픈소스를 알게 되었다. Jekyll은 프론트 엔드 언어와 Ruby로 작동되고 Git을 통해 퍼블리싱을 할 수 있다. 풀스택 개발자가 되고 싶기에 Jykell을 선택했다.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+---
 
-## Getting Started
+나의 생각을 써내려가며 정리를 할 예정이다. 그 과정에서 나의 markdown 실력이 늘었으면 좋겠다.  
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+---
+앞으로 이런 저런 어플과 웹, 프로그램을 만들 생각이다. 솔직히 말하면 어플과 웹쪽에만 관심이 있다. 그렇기에 os나 프로그램 언어는 나중에 배울 듯 싶다. 앞으로는 웹언어와 어플 언어!? 그리고 백엔드 언어를 배울 것이다.
+##### 독일어 시험을 성공적으로 끝마치고 나서부터!
+
+---
+
+이 블로그를 운영하며 사람과 소통을 하면 좋겠고 더불어 글쓰기와 공부가 익숙해졌으면 좋겠다. 어쩌면 지금 나는 익숙해져가는 중일지도 모르겠다.
+
+맞춤법 지적이나 당신의 생각은 언제나 환영이다. 댓글을 써주시거나 이메일을 보내주신다면 더할나위 없이 감사하겠다. (과도한 지적만 아니면 모든 지적을 언제나 받아드리겠다.)
+
+---
+
+나의 블로그를 읽어주어서 감사하다. 더 좋은 글로 보답하겠다.
