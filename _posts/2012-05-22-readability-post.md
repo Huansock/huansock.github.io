@@ -4,7 +4,6 @@ title: "긴 글을 쓴 포스트 예시"
 date: 2020-03-26 21:22:23
 excerpt: "만약 글을 길게 쓴다면."
 tags: [ test]
-toc: true
 toc_sticky: ture
 ---
 
