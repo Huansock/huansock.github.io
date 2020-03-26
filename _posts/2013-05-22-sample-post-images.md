@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
+title: "글 속에 이미지"
+date: 2020-03-26 21:23:29
 excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
-comments: true
+tags: [ test]
 ---
 
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
