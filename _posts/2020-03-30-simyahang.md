@@ -9,10 +9,7 @@ project: true
 comments: true
 ---
  <iframe width="640" height="360" src="https://www.youtube.com/embed/bCz5RW5JtBg?&amp;wmode=opaque" frameborder="0"> </iframe>
-</p>
-친구와 함께 진행 중에 있는 인터랙티브 드라마 심야행의 시나리오입니다.
-블로그 내의 저작권은 MIT저작권을 준수하고 있으며
-무단배포및 도용은 법적제재를 받으실 수 있습니다.
+
 <p></p>
 <div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
 none black 0cm;padding:0cm 0cm 0cm 0cm">
@@ -1344,3 +1341,6 @@ none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
 </div>
 <br>
 <p></p>
+<p text-align: left>친구와 함께 진행 중에 있는 인터랙티브 드라마 심야행의 시나리오입니다.
+블로그 내의 저작권은 MIT저작권을 준수하고 있으며
+무단배포및 도용은 법적제재를 받으실 수 있습니다.</p>
