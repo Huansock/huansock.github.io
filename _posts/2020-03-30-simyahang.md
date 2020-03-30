@@ -3,9 +3,1339 @@ layout: post
 title: 심야행
 date: 2020-03-30 22:09:47
 excerpt: "프로젝트 심야행"
-tags:  
+tag:  
 - test 
 project: true
 ---
 
-<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><style type="text/css">.lst-kix_list_4-1>li{counter-increment:lst-ctn-kix_list_4-1}ol.lst-kix_list_7-0{list-style-type:none}.lst-kix_list_2-1>li{counter-increment:lst-ctn-kix_list_2-1}.lst-kix_list_6-1>li{counter-increment:lst-ctn-kix_list_6-1}.lst-kix_list_8-1>li{counter-increment:lst-ctn-kix_list_8-1}ol.lst-kix_list_8-2.start{counter-reset:lst-ctn-kix_list_8-2 0}ol.lst-kix_list_3-1.start{counter-reset:lst-ctn-kix_list_3-1 0}ol.lst-kix_list_6-6.start{counter-reset:lst-ctn-kix_list_6-6 0}ol.lst-kix_list_7-4.start{counter-reset:lst-ctn-kix_list_7-4 0}.lst-kix_list_5-0>li{counter-increment:lst-ctn-kix_list_5-0}.lst-kix_list_7-0>li{counter-increment:lst-ctn-kix_list_7-0}ol.lst-kix_list_2-3.start{counter-reset:lst-ctn-kix_list_2-3 0}ol.lst-kix_list_7-5{list-style-type:none}ol.lst-kix_list_7-6{list-style-type:none}ol.lst-kix_list_7-7{list-style-type:none}ol.lst-kix_list_7-8{list-style-type:none}ol.lst-kix_list_7-1{list-style-type:none}ol.lst-kix_list_1-5.start{counter-reset:lst-ctn-kix_list_1-5 0}ol.lst-kix_list_7-2{list-style-type:none}ol.lst-kix_list_7-3{list-style-type:none}ol.lst-kix_list_7-4{list-style-type:none}ol.lst-kix_list_5-3.start{counter-reset:lst-ctn-kix_list_5-3 0}.lst-kix_list_2-3>li{counter-increment:lst-ctn-kix_list_2-3}.lst-kix_list_4-3>li{counter-increment:lst-ctn-kix_list_4-3}ol.lst-kix_list_4-5.start{counter-reset:lst-ctn-kix_list_4-5 0}.lst-kix_list_1-2>li{counter-increment:lst-ctn-kix_list_1-2}ol.lst-kix_list_3-7.start{counter-reset:lst-ctn-kix_list_3-7 0}.lst-kix_list_5-2>li{counter-increment:lst-ctn-kix_list_5-2}ol.lst-kix_list_8-8.start{counter-reset:lst-ctn-kix_list_8-8 0}.lst-kix_list_3-2>li{counter-increment:lst-ctn-kix_list_3-2}.lst-kix_list_7-2>li{counter-increment:lst-ctn-kix_list_7-2}ol.lst-kix_list_8-7.start{counter-reset:lst-ctn-kix_list_8-7 0}.lst-kix_list_5-0>li:before{content:"" counter(lst-ctn-kix_list_5-0,decimal) ". "}ol.lst-kix_list_6-0{list-style-type:none}ol.lst-kix_list_6-1{list-style-type:none}.lst-kix_list_5-4>li{counter-increment:lst-ctn-kix_list_5-4}.lst-kix_list_1-4>li{counter-increment:lst-ctn-kix_list_1-4}ol.lst-kix_list_1-6.start{counter-reset:lst-ctn-kix_list_1-6 0}.lst-kix_list_5-3>li:before{content:"" counter(lst-ctn-kix_list_5-3,decimal) ") "}.lst-kix_list_5-2>li:before{content:"" counter(lst-ctn-kix_list_5-2,decimal) ") "}.lst-kix_list_8-3>li{counter-increment:lst-ctn-kix_list_8-3}.lst-kix_list_5-1>li:before{content:"" counter(lst-ctn-kix_list_5-1,decimal) ". "}.lst-kix_list_5-7>li:before{content:" "}.lst-kix_list_5-6>li:before{content:"" counter(lst-ctn-kix_list_5-6,decimal) " "}.lst-kix_list_5-8>li:before{content:" "}ol.lst-kix_list_6-6{list-style-type:none}ol.lst-kix_list_6-7{list-style-type:none}.lst-kix_list_5-4>li:before{content:"(" counter(lst-ctn-kix_list_5-4,decimal) ") "}ol.lst-kix_list_6-8{list-style-type:none}.lst-kix_list_5-5>li:before{content:"(" counter(lst-ctn-kix_list_5-5,decimal) ") "}ol.lst-kix_list_6-2{list-style-type:none}ol.lst-kix_list_6-3{list-style-type:none}ol.lst-kix_list_6-4{list-style-type:none}ol.lst-kix_list_6-5{list-style-type:none}ol.lst-kix_list_1-0.start{counter-reset:lst-ctn-kix_list_1-0 0}.lst-kix_list_6-1>li:before{content:"" counter(lst-ctn-kix_list_6-1,decimal) ". "}.lst-kix_list_6-3>li:before{content:"" counter(lst-ctn-kix_list_6-3,decimal) ") "}.lst-kix_list_6-5>li{counter-increment:lst-ctn-kix_list_6-5}.lst-kix_list_6-8>li{counter-increment:lst-ctn-kix_list_6-8}.lst-kix_list_6-0>li:before{content:"" counter(lst-ctn-kix_list_6-0,decimal) ". "}.lst-kix_list_6-4>li:before{content:"(" counter(lst-ctn-kix_list_6-4,decimal) ") "}.lst-kix_list_3-0>li{counter-increment:lst-ctn-kix_list_3-0}ol.lst-kix_list_4-0.start{counter-reset:lst-ctn-kix_list_4-0 0}.lst-kix_list_3-6>li{counter-increment:lst-ctn-kix_list_3-6}.lst-kix_list_6-2>li:before{content:"" counter(lst-ctn-kix_list_6-2,decimal) ") "}.lst-kix_list_2-5>li{counter-increment:lst-ctn-kix_list_2-5}.lst-kix_list_2-8>li{counter-increment:lst-ctn-kix_list_2-8}ol.lst-kix_list_3-2.start{counter-reset:lst-ctn-kix_list_3-2 0}.lst-kix_list_6-8>li:before{content:" "}.lst-kix_list_6-5>li:before{content:"(" counter(lst-ctn-kix_list_6-5,decimal) ") "}.lst-kix_list_6-7>li:before{content:" "}ol.lst-kix_list_2-4.start{counter-reset:lst-ctn-kix_list_2-4 0}.lst-kix_list_6-6>li:before{content:"" counter(lst-ctn-kix_list_6-6,decimal) " "}ol.lst-kix_list_1-3{list-style-type:none}ol.lst-kix_list_1-4{list-style-type:none}.lst-kix_list_2-7>li:before{content:" "}.lst-kix_list_2-7>li{counter-increment:lst-ctn-kix_list_2-7}ol.lst-kix_list_1-5{list-style-type:none}.lst-kix_list_7-4>li:before{content:"(" counter(lst-ctn-kix_list_7-4,decimal) ") "}.lst-kix_list_7-6>li:before{content:"" counter(lst-ctn-kix_list_7-6,decimal) " "}ol.lst-kix_list_1-6{list-style-type:none}ol.lst-kix_list_1-0{list-style-type:none}.lst-kix_list_2-5>li:before{content:"(" counter(lst-ctn-kix_list_2-5,decimal) ") "}ol.lst-kix_list_6-2.start{counter-reset:lst-ctn-kix_list_6-2 0}ol.lst-kix_list_1-1{list-style-type:none}ol.lst-kix_list_1-2{list-style-type:none}.lst-kix_list_7-2>li:before{content:"" counter(lst-ctn-kix_list_7-2,decimal) ") "}.lst-kix_list_7-6>li{counter-increment:lst-ctn-kix_list_7-6}.lst-kix_list_8-6>li{counter-increment:lst-ctn-kix_list_8-6}ol.lst-kix_list_4-6.start{counter-reset:lst-ctn-kix_list_4-6 0}ol.lst-kix_list_3-0.start{counter-reset:lst-ctn-kix_list_3-0 0}.lst-kix_list_5-7>li{counter-increment:lst-ctn-kix_list_5-7}.lst-kix_list_7-7>li{counter-increment:lst-ctn-kix_list_7-7}.lst-kix_list_7-8>li:before{content:" "}ol.lst-kix_list_4-3.start{counter-reset:lst-ctn-kix_list_4-3 0}ol.lst-kix_list_1-7{list-style-type:none}.lst-kix_list_4-7>li{counter-increment:lst-ctn-kix_list_4-7}ol.lst-kix_list_1-8{list-style-type:none}.lst-kix_list_7-8>li{counter-increment:lst-ctn-kix_list_7-8}ol.lst-kix_list_2-5.start{counter-reset:lst-ctn-kix_list_2-5 0}.lst-kix_list_2-6>li{counter-increment:lst-ctn-kix_list_2-6}.lst-kix_list_4-1>li:before{content:"" counter(lst-ctn-kix_list_4-1,decimal) ". "}ol.lst-kix_list_7-3.start{counter-reset:lst-ctn-kix_list_7-3 0}.lst-kix_list_4-3>li:before{content:"" counter(lst-ctn-kix_list_4-3,decimal) ") "}.lst-kix_list_4-5>li:before{content:"(" counter(lst-ctn-kix_list_4-5,decimal) ") "}ol.lst-kix_list_5-7.start{counter-reset:lst-ctn-kix_list_5-7 0}.lst-kix_list_1-8>li{counter-increment:lst-ctn-kix_list_1-8}ol.lst-kix_list_1-4.start{counter-reset:lst-ctn-kix_list_1-4 0}.lst-kix_list_5-5>li{counter-increment:lst-ctn-kix_list_5-5}.lst-kix_list_3-5>li{counter-increment:lst-ctn-kix_list_3-5}ol.lst-kix_list_1-1.start{counter-reset:lst-ctn-kix_list_1-1 0}.lst-kix_list_3-4>li{counter-increment:lst-ctn-kix_list_3-4}ol.lst-kix_list_4-4.start{counter-reset:lst-ctn-kix_list_4-4 0}.lst-kix_list_6-4>li{counter-increment:lst-ctn-kix_list_6-4}.lst-kix_list_6-3>li{counter-increment:lst-ctn-kix_list_6-3}ol.lst-kix_list_1-3.start{counter-reset:lst-ctn-kix_list_1-3 0}ol.lst-kix_list_2-8.start{counter-reset:lst-ctn-kix_list_2-8 0}ol.lst-kix_list_8-8{list-style-type:none}ol.lst-kix_list_1-2.start{counter-reset:lst-ctn-kix_list_1-2 0}ol.lst-kix_list_7-6.start{counter-reset:lst-ctn-kix_list_7-6 0}ol.lst-kix_list_6-1.start{counter-reset:lst-ctn-kix_list_6-1 0}ol.lst-kix_list_8-4{list-style-type:none}ol.lst-kix_list_8-5{list-style-type:none}ol.lst-kix_list_8-6{list-style-type:none}ol.lst-kix_list_8-7{list-style-type:none}ol.lst-kix_list_8-0{list-style-type:none}ol.lst-kix_list_8-1{list-style-type:none}.lst-kix_list_1-1>li:before{content:"" counter(lst-ctn-kix_list_1-1,decimal) ". "}ol.lst-kix_list_8-2{list-style-type:none}ol.lst-kix_list_8-3{list-style-type:none}.lst-kix_list_8-5>li{counter-increment:lst-ctn-kix_list_8-5}.lst-kix_list_1-3>li:before{content:"" counter(lst-ctn-kix_list_1-3,decimal) ") "}.lst-kix_list_4-8>li{counter-increment:lst-ctn-kix_list_4-8}.lst-kix_list_1-7>li:before{content:"" counter(lst-ctn-kix_list_1-7,decimal) " "}ol.lst-kix_list_5-8.start{counter-reset:lst-ctn-kix_list_5-8 0}ol.lst-kix_list_2-7.start{counter-reset:lst-ctn-kix_list_2-7 0}.lst-kix_list_1-3>li{counter-increment:lst-ctn-kix_list_1-3}.lst-kix_list_1-5>li:before{content:"(" counter(lst-ctn-kix_list_1-5,decimal) ") "}.lst-kix_list_5-6>li{counter-increment:lst-ctn-kix_list_5-6}ol.lst-kix_list_7-5.start{counter-reset:lst-ctn-kix_list_7-5 0}.lst-kix_list_2-1>li:before{content:"" counter(lst-ctn-kix_list_2-1,decimal) ". "}ol.lst-kix_list_6-0.start{counter-reset:lst-ctn-kix_list_6-0 0}.lst-kix_list_2-3>li:before{content:"" counter(lst-ctn-kix_list_2-3,decimal) ") "}.lst-kix_list_4-2>li{counter-increment:lst-ctn-kix_list_4-2}ol.lst-kix_list_3-1{list-style-type:none}ol.lst-kix_list_3-2{list-style-type:none}.lst-kix_list_3-1>li{counter-increment:lst-ctn-kix_list_3-1}ol.lst-kix_list_3-3{list-style-type:none}ol.lst-kix_list_3-4.start{counter-reset:lst-ctn-kix_list_3-4 0}.lst-kix_list_5-1>li{counter-increment:lst-ctn-kix_list_5-1}ol.lst-kix_list_3-4{list-style-type:none}ol.lst-kix_list_3-0{list-style-type:none}.lst-kix_list_1-1>li{counter-increment:lst-ctn-kix_list_1-1}.lst-kix_list_7-1>li{counter-increment:lst-ctn-kix_list_7-1}ol.lst-kix_list_2-6.start{counter-reset:lst-ctn-kix_list_2-6 0}.lst-kix_list_3-0>li:before{content:"" counter(lst-ctn-kix_list_3-0,decimal) ". "}ol.lst-kix_list_7-7.start{counter-reset:lst-ctn-kix_list_7-7 0}.lst-kix_list_3-1>li:before{content:"" counter(lst-ctn-kix_list_3-1,decimal) ". "}.lst-kix_list_3-2>li:before{content:"" counter(lst-ctn-kix_list_3-2,decimal) ") "}.lst-kix_list_8-1>li:before{content:"" counter(lst-ctn-kix_list_8-1,decimal) ". "}ol.lst-kix_list_1-8.start{counter-reset:lst-ctn-kix_list_1-8 0}.lst-kix_list_4-0>li{counter-increment:lst-ctn-kix_list_4-0}.lst-kix_list_8-2>li:before{content:"" counter(lst-ctn-kix_list_8-2,decimal) ") "}.lst-kix_list_6-0>li{counter-increment:lst-ctn-kix_list_6-0}.lst-kix_list_8-0>li{counter-increment:lst-ctn-kix_list_8-0}.lst-kix_list_3-5>li:before{content:"(" counter(lst-ctn-kix_list_3-5,decimal) ") "}.lst-kix_list_3-4>li:before{content:"(" counter(lst-ctn-kix_list_3-4,decimal) ") "}.lst-kix_list_3-3>li:before{content:"" counter(lst-ctn-kix_list_3-3,decimal) ") "}ol.lst-kix_list_3-5{list-style-type:none}ol.lst-kix_list_3-6{list-style-type:none}.lst-kix_list_8-0>li:before{content:"" counter(lst-ctn-kix_list_8-0,decimal) ". "}ol.lst-kix_list_3-7{list-style-type:none}ol.lst-kix_list_3-8{list-style-type:none}.lst-kix_list_8-7>li:before{content:" "}.lst-kix_list_3-8>li:before{content:" "}.lst-kix_list_8-5>li:before{content:"(" counter(lst-ctn-kix_list_8-5,decimal) ") "}.lst-kix_list_8-6>li:before{content:"" counter(lst-ctn-kix_list_8-6,decimal) " "}.lst-kix_list_2-0>li{counter-increment:lst-ctn-kix_list_2-0}.lst-kix_list_8-3>li:before{content:"" counter(lst-ctn-kix_list_8-3,decimal) ") "}.lst-kix_list_3-6>li:before{content:"" counter(lst-ctn-kix_list_3-6,decimal) " "}.lst-kix_list_3-7>li:before{content:" "}.lst-kix_list_8-4>li:before{content:"(" counter(lst-ctn-kix_list_8-4,decimal) ") "}ol.lst-kix_list_5-0.start{counter-reset:lst-ctn-kix_list_5-0 0}ol.lst-kix_list_8-5.start{counter-reset:lst-ctn-kix_list_8-5 0}ol.lst-kix_list_4-2.start{counter-reset:lst-ctn-kix_list_4-2 0}.lst-kix_list_8-8>li:before{content:" "}ol.lst-kix_list_2-2{list-style-type:none}ol.lst-kix_list_2-3{list-style-type:none}ol.lst-kix_list_2-4{list-style-type:none}ol.lst-kix_list_7-2.start{counter-reset:lst-ctn-kix_list_7-2 0}ol.lst-kix_list_2-5{list-style-type:none}.lst-kix_list_4-4>li{counter-increment:lst-ctn-kix_list_4-4}ol.lst-kix_list_2-0{list-style-type:none}ol.lst-kix_list_2-1{list-style-type:none}.lst-kix_list_4-8>li:before{content:" "}ol.lst-kix_list_6-4.start{counter-reset:lst-ctn-kix_list_6-4 0}.lst-kix_list_4-7>li:before{content:" "}ol.lst-kix_list_5-6.start{counter-reset:lst-ctn-kix_list_5-6 0}ol.lst-kix_list_4-1.start{counter-reset:lst-ctn-kix_list_4-1 0}.lst-kix_list_7-3>li{counter-increment:lst-ctn-kix_list_7-3}ol.lst-kix_list_4-8.start{counter-reset:lst-ctn-kix_list_4-8 0}.lst-kix_list_8-4>li{counter-increment:lst-ctn-kix_list_8-4}ol.lst-kix_list_3-3.start{counter-reset:lst-ctn-kix_list_3-3 0}ol.lst-kix_list_2-6{list-style-type:none}ol.lst-kix_list_2-7{list-style-type:none}ol.lst-kix_list_2-8{list-style-type:none}ol.lst-kix_list_7-8.start{counter-reset:lst-ctn-kix_list_7-8 0}ol.lst-kix_list_7-1.start{counter-reset:lst-ctn-kix_list_7-1 0}ol.lst-kix_list_8-6.start{counter-reset:lst-ctn-kix_list_8-6 0}.lst-kix_list_3-3>li{counter-increment:lst-ctn-kix_list_3-3}ol.lst-kix_list_6-3.start{counter-reset:lst-ctn-kix_list_6-3 0}ol.lst-kix_list_5-5.start{counter-reset:lst-ctn-kix_list_5-5 0}ol.lst-kix_list_8-0.start{counter-reset:lst-ctn-kix_list_8-0 0}.lst-kix_list_7-0>li:before{content:"" counter(lst-ctn-kix_list_7-0,decimal) ". "}.lst-kix_list_2-2>li{counter-increment:lst-ctn-kix_list_2-2}ol.lst-kix_list_4-7.start{counter-reset:lst-ctn-kix_list_4-7 0}.lst-kix_list_6-2>li{counter-increment:lst-ctn-kix_list_6-2}ol.lst-kix_list_5-0{list-style-type:none}.lst-kix_list_2-6>li:before{content:"" counter(lst-ctn-kix_list_2-6,decimal) " "}.lst-kix_list_3-7>li{counter-increment:lst-ctn-kix_list_3-7}ol.lst-kix_list_5-1{list-style-type:none}ol.lst-kix_list_5-2{list-style-type:none}.lst-kix_list_2-4>li:before{content:"(" counter(lst-ctn-kix_list_2-4,decimal) ") "}.lst-kix_list_2-8>li:before{content:" "}.lst-kix_list_7-1>li:before{content:"" counter(lst-ctn-kix_list_7-1,decimal) ". "}.lst-kix_list_7-5>li:before{content:"(" counter(lst-ctn-kix_list_7-5,decimal) ") "}.lst-kix_list_6-6>li{counter-increment:lst-ctn-kix_list_6-6}ol.lst-kix_list_5-4.start{counter-reset:lst-ctn-kix_list_5-4 0}.lst-kix_list_7-3>li:before{content:"" counter(lst-ctn-kix_list_7-3,decimal) ") "}ol.lst-kix_list_5-1.start{counter-reset:lst-ctn-kix_list_5-1 0}ol.lst-kix_list_5-7{list-style-type:none}.lst-kix_list_6-7>li{counter-increment:lst-ctn-kix_list_6-7}ol.lst-kix_list_5-8{list-style-type:none}ol.lst-kix_list_5-3{list-style-type:none}.lst-kix_list_8-7>li{counter-increment:lst-ctn-kix_list_8-7}ol.lst-kix_list_5-4{list-style-type:none}.lst-kix_list_1-7>li{counter-increment:lst-ctn-kix_list_1-7}ol.lst-kix_list_3-8.start{counter-reset:lst-ctn-kix_list_3-8 0}ol.lst-kix_list_5-5{list-style-type:none}ol.lst-kix_list_5-6{list-style-type:none}.lst-kix_list_7-7>li:before{content:" "}ol.lst-kix_list_8-1.start{counter-reset:lst-ctn-kix_list_8-1 0}.lst-kix_list_7-5>li{counter-increment:lst-ctn-kix_list_7-5}.lst-kix_list_5-8>li{counter-increment:lst-ctn-kix_list_5-8}.lst-kix_list_4-0>li:before{content:"" counter(lst-ctn-kix_list_4-0,decimal) ". "}.lst-kix_list_3-8>li{counter-increment:lst-ctn-kix_list_3-8}ol.lst-kix_list_6-8.start{counter-reset:lst-ctn-kix_list_6-8 0}.lst-kix_list_4-6>li{counter-increment:lst-ctn-kix_list_4-6}ol.lst-kix_list_1-7.start{counter-reset:lst-ctn-kix_list_1-7 0}.lst-kix_list_4-4>li:before{content:"(" counter(lst-ctn-kix_list_4-4,decimal) ") "}ol.lst-kix_list_2-2.start{counter-reset:lst-ctn-kix_list_2-2 0}.lst-kix_list_1-5>li{counter-increment:lst-ctn-kix_list_1-5}ol.lst-kix_list_6-5.start{counter-reset:lst-ctn-kix_list_6-5 0}.lst-kix_list_4-2>li:before{content:"" counter(lst-ctn-kix_list_4-2,decimal) ") "}.lst-kix_list_4-6>li:before{content:"" counter(lst-ctn-kix_list_4-6,decimal) " "}ol.lst-kix_list_7-0.start{counter-reset:lst-ctn-kix_list_7-0 0}ol.lst-kix_list_4-0{list-style-type:none}ol.lst-kix_list_4-1{list-style-type:none}ol.lst-kix_list_4-2{list-style-type:none}ol.lst-kix_list_4-3{list-style-type:none}.lst-kix_list_2-4>li{counter-increment:lst-ctn-kix_list_2-4}ol.lst-kix_list_6-7.start{counter-reset:lst-ctn-kix_list_6-7 0}ol.lst-kix_list_3-6.start{counter-reset:lst-ctn-kix_list_3-6 0}.lst-kix_list_5-3>li{counter-increment:lst-ctn-kix_list_5-3}ol.lst-kix_list_4-8{list-style-type:none}.lst-kix_list_7-4>li{counter-increment:lst-ctn-kix_list_7-4}.lst-kix_list_1-0>li:before{content:"s#" counter(lst-ctn-kix_list_1-0,decimal) ". "}ol.lst-kix_list_4-4{list-style-type:none}ol.lst-kix_list_4-5{list-style-type:none}.lst-kix_list_1-2>li:before{content:"" counter(lst-ctn-kix_list_1-2,decimal) ") "}ol.lst-kix_list_2-0.start{counter-reset:lst-ctn-kix_list_2-0 0}ol.lst-kix_list_4-6{list-style-type:none}ol.lst-kix_list_4-7{list-style-type:none}ol.lst-kix_list_8-4.start{counter-reset:lst-ctn-kix_list_8-4 0}.lst-kix_list_1-4>li:before{content:"(" counter(lst-ctn-kix_list_1-4,decimal) ") "}ol.lst-kix_list_3-5.start{counter-reset:lst-ctn-kix_list_3-5 0}.lst-kix_list_1-0>li{counter-increment:lst-ctn-kix_list_1-0}.lst-kix_list_8-8>li{counter-increment:lst-ctn-kix_list_8-8}.lst-kix_list_1-6>li{counter-increment:lst-ctn-kix_list_1-6}.lst-kix_list_1-6>li:before{content:"" counter(lst-ctn-kix_list_1-6,decimal) " "}.lst-kix_list_2-0>li:before{content:"" counter(lst-ctn-kix_list_2-0,decimal) ". "}ol.lst-kix_list_2-1.start{counter-reset:lst-ctn-kix_list_2-1 0}ol.lst-kix_list_8-3.start{counter-reset:lst-ctn-kix_list_8-3 0}.lst-kix_list_4-5>li{counter-increment:lst-ctn-kix_list_4-5}.lst-kix_list_1-8>li:before{content:" "}.lst-kix_list_2-2>li:before{content:"" counter(lst-ctn-kix_list_2-2,decimal) ") "}ol.lst-kix_list_5-2.start{counter-reset:lst-ctn-kix_list_5-2 0}.lst-kix_list_8-2>li{counter-increment:lst-ctn-kix_list_8-2}ol{margin:0;padding:0}table td,table th{padding:0}.c4{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:0pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;margin-left:10pt;text-indent:10pt;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:justify;padding-right:0pt}.c1{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:0pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;margin-left:80pt;text-indent:-80pt;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:justify;padding-right:0pt}.c3{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:0pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;margin-left:20pt;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:justify;padding-right:0pt}.c19{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:-4.8pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;margin-left:28pt;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:justify;padding-right:0pt}.c9{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:-4.8pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;margin-left:28pt;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:left;padding-right:0pt}.c8{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:0pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:justify;padding-right:0pt}.c21{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:0pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:right;padding-right:0pt}.c15{border-right-style:solid;padding-top:0pt;border-top-width:0pt;border-bottom-color:#000000;border-right-width:0pt;padding-left:0pt;border-left-color:#000000;padding-bottom:0pt;line-height:1.5999999999999999;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;border-top-color:#000000;border-bottom-style:solid;text-align:center;padding-right:0pt}.c6{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";font-style:normal}.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";font-style:normal}.c7{color:#ff0000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";font-style:normal}.c12{color:#000000;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";font-style:normal}.c20{color:#ff0000;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";font-style:normal}.c14{color:#000000;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";font-style:normal}.c13{color:#000000;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5 \00d655\00c7a5";font-style:normal}.c16{background-color:#ffffff;max-width:481.9pt;padding:99.2pt 56.7pt 85pt 56.7pt}.c11{padding:0;margin:0}.c17{text-indent:-20pt}.c5{font-weight:700}.c2{height:10pt}.c18{font-size:32pt}.c10{margin-left:15pt}.title{padding-top:24pt;color:#000000;font-weight:700;font-size:36pt;padding-bottom:6pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}.subtitle{padding-top:18pt;color:#666666;font-size:24pt;padding-bottom:4pt;font-family:"Georgia";line-height:1.5999999999999999;page-break-after:avoid;font-style:italic;text-align:justify}li{color:#000000;font-size:10pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5"}p{margin:0;color:#000000;font-size:10pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5"}h1{padding-top:24pt;color:#000000;font-weight:700;font-size:24pt;padding-bottom:6pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}h2{padding-top:18pt;color:#000000;font-weight:700;font-size:18pt;padding-bottom:4pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}h3{padding-top:14pt;color:#000000;font-weight:700;font-size:14pt;padding-bottom:4pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}h4{padding-top:12pt;color:#000000;font-weight:700;font-size:12pt;padding-bottom:2pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}h5{padding-top:11pt;color:#000000;font-weight:700;font-size:11pt;padding-bottom:2pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}h6{padding-top:10pt;color:#000000;font-weight:700;font-size:10pt;padding-bottom:2pt;font-family:"\00d568\00cd08\00b86c\00bc14\00d0d5";line-height:1.5999999999999999;page-break-after:avoid;text-align:justify}</style></head><body class="c16"><p class="c15" id="h.gjdgxs"><span class="c18">&#49900;&#50556;&#54665;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c8 c2 c10"><span class="c6"></span></p><p class="c10 c21"><span class="c6">&#51089;&#44032;: &#50577;&#50864;&#49437;</span></p><ol class="c11 lst-kix_list_1-0 start" start="1"><li class="c19"><span class="c13 c5">&#54620;&#51201;&#54620; &#52852;&#54168;, &#50724;&#54980; &#45230;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#48124;&#51456;&#44284; &#44621;&#51648; &#45184; &#49552;&#44032;&#46973;, &#52852;&#54168;&#50640;&#49436; &#46308;&#47532;&#45716; &#49548;&#47532;, &#50696;&#49244; &#52852;&#54168;&#51032; &#44396;&#49437; &#46356;&#51088;&#51064;, &#51068;&#47105;&#44144;&#47532;&#47728; &#52852;&#54168; &#50504;&#51004;&#47196; &#46308;&#50612;&#50724;&#45716; &#54663;&#48731;, &#47560;&#51452;&#48372;&#47728; &#50883;&#50612;&#51452;&#45912; &#48124;&#51456;&#51032; &#50620;&#44404;(&#49836;&#47196;&#50864; &#47784;&#49496;)</span></p><p class="c3 c2 c17"><span class="c6"></span></p><ol class="c11 lst-kix_list_1-0" start="2"><li class="c9"><span class="c13 c5">&#50976;&#51652;&#51032; &#51088;&#52712;&#48169; </span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#50976;&#51652;&#51060; &#47805;&#54872;&#51201;&#51064; &#45000;&#51012; &#44984;&#44256; &#48512;&#49828;&#49828; &#51068;&#50612;&#45212;&#45796;. &#54868;&#51109;&#49892;&#50640;&#49436; &#50491;&#44256; &#45208;&#50752; &#54648;&#46300;&#54256;&#51012; &#52313;&#44592;&#44256; &#49884;&#47532;&#50620;&#51012; &#47673;&#51012; &#51456;&#48708;&#47484; &#54620;&#45796;. &#54812;&#44221;&#50640;&#44172; &#51204;&#54868;&#47484; &#44148;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50556; &#51060;&#54812;&#44221; &#51648;&#44552; &#47952;&#54644;?</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#54617;&#44368; &#44040; &#51456;&#48708;&#54616;&#51648; &#51060;&#45380;&#50500;. 1&#44368;&#49884;&#47484; &#45347;&#45716; &#44172; &#50500;&#45772; &#45936; &#46944;&#48148;. &#45212; &#45320;&#46993; &#45804;&#47532; &#55092;&#54617;&#51012; &#50504;&#54644;&#49436; &#51320;&#45208;&#44172; &#48148;&#48736;&#50836;. &#44540;&#45936; &#50780; &#51204;&#54868;&#54664;&#50612;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500; &#44536;&#45285;. &#49900;&#49900;&#54644;&#49436; &#51204;&#54868;&#54664;&#50612;.</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#47111;&#44172; &#54624; &#51068;&#51060; &#50630;&#45264;? &#54624; &#51068;&#51060; &#44536;&#47111;&#44172; &#50630;&#51004;&#47732; &#50752;&#49436; &#45236; &#44284;&#51228;&#45208; &#51328; &#46020;&#50752;&#51480;&#46972;. &#44608;&#45909;&#51652; &#51060;&#49352;&#45180;&#45716; &#44368;&#49688;&#44032; &#50500;&#45768;&#46972; &#44396;&#47788;&#49440;&#49373;&#45784;&#44057;&#50528;. &#44284;&#51228;&#47484; &#45130;&#51076;&#50630;&#51060; &#51480;&#50836;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50640;&#51060; &#44536;&#47111;&#44172;&#44620;&#51648; &#49900;&#49900;&#54616;&#51652; &#50506;&#50500;.(&#49436;&#47196; &#53412;&#46301;&#53412;&#46301; &#50883;&#45716;&#45796;)</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#46904;&#51012; &#46308;&#51060;&#45796;&#44032;) &#44540;&#45936; &#54812;&#44221;&#50500; &#45320; &#48124;&#51456;&#49440;&#48176; &#50508;&#51648;?</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#50557;&#44036; &#45440;&#46976; &#46319;&#51060;) &#50612; &#44540;&#45936; &#50780;? </span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#45812;&#45812;&#54616;&#44172;) &#50500;&#45768; &#44536;&#45285; &#50724;&#45720; &#45000;&#50640; &#45208;&#50772;&#44600;&#47000;. &#44536;&#45208;&#51200;&#45208; &#50724;&#45720; &#45000;&#50640;&#49436; &#44536; &#49440;&#48176;&#46993; &#45936;&#51060;&#53944;&#54664;&#45796;.(&#45824;&#49324; &#45149;&#51032; &#51020;&#51221;&#51012; &#50732;&#47532;&#47728;, &#50557;&#44036; &#49888;&#45208;&#54616;&#47732;&#49436;)</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#45936;&#51060;&#53944;&#46972;&#45716; &#47568;&#50640; &#45440;&#46992;&#51648;&#47564; &#45812;&#45812;&#54616;&#44172;) &#50500;&#51060;&#44396; &#50864;&#47532; &#49569;&#50976;&#51652;&#44277;&#51452;&#45784; &#44536;&#44172; &#44536;&#47111;&#44172; &#51339;&#51004;&#49464;&#50836;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768;. &#50500;&#45768;. &#44536;&#45285; &#45000;&#50640; &#44536; &#49440;&#48176;&#44032; &#45208;&#50728; &#44172; &#53945;&#51060;&#54644;&#49436;. &#49888;&#44592;&#54616;&#51094;&#50500;.</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#47000; &#44536;&#44148; &#44536;&#47111;&#45796; &#52824;&#44256; &#50724;&#45720; &#45320; &#47952;&#54624;&#44144;&#50556;? &#51060;&#46384; &#51200;&#45377;&#50640; &#49696;&#51060;&#45208; &#54620;&#51092; &#54624;&#47000;? </span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50640;&#51060; &#46096;&#50612;. &#55092;&#54617;&#49373;&#51008; &#44277;&#48512;&#54644;&#50556; &#46076;. &#44536;&#47532;&#44256; &#49696;&#51008; &#48324;&#47196;&#50556;. &#44536;&#45285; &#48165;&#47673;&#45716; &#44144;&#47732; &#47784;&#47484;&#44620;.</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50508;&#44192;&#50612;. &#45208;&#54844;&#51088; &#49696;&#48176;&#45208; &#52236;&#46972;&#45716; &#44144;&#51648;? &#50508;&#44192;&#50612; &#45130;&#50612;</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#50883;&#45716;&#45796;) &#50500;&#45264;~. &#44536;&#47088; &#46907;. &#44536;&#47100; &#45796;&#51020;&#50640; &#48372;&#51088;.</span></p><p class="c1 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="3"><li class="c9"><span class="c13 c5">&nbsp; &#50976;&#51652;&#51032; &#52840;&#45824;</span></li></ol><p class="c4"><span class="c0">&#54200;&#54616;&#44172; &#45572;&#50892;&#51080;&#45796;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652; nar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#55136;.. &#50612;&#52264;&#54588; &#45208;&#44032;&#44592; &#44480;&#52270;&#51008; &#45936; &#45208;&#44040;&#44620;? &#47568;&#44620;?</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c7">-&#45208;&#44032;&#47732; &nbsp;s#4.&#51004;&#47196; &nbsp;or &#50504; &#45208;&#44032;&#47732; s#3.1.&#47196; </span><span class="c0">&nbsp;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c8"><span class="c5">s#3.1.</span><span class="c6">&nbsp;&#50612;&#46161;&#50612;&#46161;&#54620; &#51200;&#45377; &#50976;&#51652;&#51032; &#54868;&#51109;&#49892;</span></p><p class="c8 c2"><span class="c6"></span></p><p class="c4"><span class="c0">&#51665;&#50640;&#49436; &#44277;&#48512;&#47484; &#54644;&#49436; &#54588;&#44260;&#54620; &#50976;&#51652; &#51060;&#51228; &#44536;&#47564; &#51096; &#51456;&#48708;&#47484; &#54620;&#45796;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#52824;&#50500;&#47484; &#45816;&#51004;&#47728;)&#51060;&#47564;&#54616;&#47732; &#46096;&#50612;. &#50724;&#45720; &#50668;&#44592;&#44620;&#51648;&#54616;&#44256; &#54393; &#51088;&#44256; &#45236;&#51068; &#50500;&#52840; &#45796;&#49884; &#54616;&#45716; &#44172; &#45208;&#50500; </span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652;&#51008; &#51060;&#51228; &#51096; &#51456;&#48708;&#47484; &#54616;&#44256; &#52840;&#45824;&#50640; &#45589;&#45716;&#45796;. &#51312;&#47749;&#51060; &#44732;&#51652;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4"><span class="c5 c20">- s#3&#51004;&#47196; </span></p><p class="c4 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="4"><li class="c9"><span class="c13 c5">&#54663;&#48341;&#51060; &#51339;&#51008; &#50500;&#52840; &#51064;&#53580;&#47532;&#50612;&#44032; &#51339;&#44256; &#44277;&#48512;&#54616;&#44592; &#54200;&#54620; &#52852;&#54168;</span></li></ol><p class="c3"><span class="c0">&#52852;&#54168;&#47928;&#51012; &#50676;&#44256; &#46308;&#50612;&#50724;&#45716; &#50976;&#51652;. &#50500;&#47700;&#47532;&#52852;&#45432;&#47484; &#51452;&#47928;&#54620;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#47700;&#47532;&#52852;&#45432; &#54620;&#51092;&#51452;&#49464;&#50836;. </span></p><p class="c1"><span class="c0">&#52852;&#54168;&#49324;&#51109;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#53580;&#51060;&#53356; &#50500;&#50883;&#51064;&#44032;&#50836;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45544; &#47588;&#51109;&#50640;&#49436; &#47673;&#44256; &#44040;&#44172;&#50836;.</span></p><p class="c1"><span class="c0">&nbsp;</span></p><p class="c3"><span class="c0">&#50976;&#51652;&#51008; &#44277;&#48512;&#54624; &#51088;&#47532;&#47484; &#52286;&#44592;&#50948;&#54644; &#52852;&#54168;&#47484; &#46160;&#47532;&#48264; &#49332;&#54196;&#48376;&#45796;. &#52852;&#54168; &#44396;&#49437;&#50640;&#49436; &#54844;&#51088; &#44284;&#51228;&#47484; &#54616;&#45716; &#48124;&#51456;&#51060; &#45576;&#50640; &#46920;&#45796;. &#50976;&#51652; &#49332;&#51677; &#45440;&#46976;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652; nar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50612;? &#51200; &#49440;&#48176;&#44032; &#50780; &#50668;&#44592; &#51080;&#51648;? &#44032;&#49436; &#47568;&#51060;&#46972;&#46020; &#44152;&#50612;&#48380;&#44620;?</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c7">-&#47568;&#51012; &#44148;&#45796; s#5.&#47196; &#47568;&#51012; &#44152;&#51648; &#50506;&#45716;&#45796;. s#4.1&#47196;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c8"><span class="c5">s#4.1. &#52852;&#54168;</span></p><p class="c4"><span class="c0">&#50976;&#51652;&#51008; &#48124;&#51456;&#44284; &#47680;&#52237;&#51060; &#46504;&#50612;&#51256; &#54844;&#51088; &#44277;&#48512;&#54616;&#44592; &#49884;&#51089;&#54620;&#45796;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#54844;&#51107;&#47568;)&#44403;&#51060; &#47568;&#44152;&#50612;&#49436; &#54588;&#54644;&#51452;&#51648;&#47568;&#51088;. &#49440;&#48176;&#45784;&#51060; &#50508;&#50500;&#48372;&#49884;&#47732; &#47676;&#51200; &#47568;&#54616;&#49884;&#44192;&#51648;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#49884;&#44036;&#51060; &#51328; &#55120;&#47480; &#46244; &#48124;&#51456;&#51008; &#52852;&#54168;&#50640;&#49436; &#45208;&#44032;&#45716; &#44600;&#50640; &#50976;&#51652;&#51008; &#52432;&#45796;&#48372;&#51648;&#47564; &#47568;&#51012; &#44152;&#51648; &#50506;&#44256; &#44536;&#45285; &#45208;&#44036;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;nar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#47952;&#50556; &#48420;&#45716;&#45936; &#47568;&#46020; &#50504;&#44152;&#51094;&#50500;..... &#44536;&#45285; &#45236; &#44277;&#48512;&#45208; &#54616;&#51088;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50612;&#45712;&#49352; &#50612;&#46160;&#50892;&#51652; &#51200;&#45377; &#52852;&#54168; &#50976;&#51652;&#51008; &#51060;&#51228; &#44277;&#48512;&#47484; &#47560;&#52824;&#44256; &#51088;&#52712;&#48169;&#51004;&#47196; &#46028;&#50500;&#44036;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4"><span class="c0">-s#3.1&#47196; </span></p><ol class="c11 lst-kix_list_1-0" start="5"><li class="c9"><span class="c13 c5">&#52852;&#54168; &nbsp;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#50976;&#51652; &#48124;&#51456;&#50694;&#51004;&#47196; &#50500;&#47700;&#47532;&#52852;&#45432;&#47484; &#46308;&#44256; &#45796;&#44032;&#44036;&#45796;. &#47589;&#48513;&#51004;&#47196; &#44284;&#51228;&#47484; &#54616;&#45716; &#44163; &#44057;&#51008; &#48124;&#51456; &#50526;&#51088;&#47532;&#50640; &#50505;&#45716;&#45796;. &#48124;&#51456; &#44049;&#51088;&#44592; &#50505;&#51008; &#50976;&#51652;&#51012; &#48372;&#44256; &#51201;&#45817;&#55176; &#45440;&#46976; &#46319; &#54616;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176; &#50504;&#45397;&#54616;&#49464;&#50836;. &#51200; &#50500;&#49884;&#51424;? </span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#44480;&#50640;&#49436; &#51060;&#50612;&#54256;&#51012; &#48764;&#47732;&#49436;) &#50612; &#50976;&#51652;&#50500;. &#50724;&#47004;&#47564;&#51060;&#50556;. &#50836;&#49352; &#47952;&#54616;&#44256; &#51648;&#45236;? &#54617;&#44368;&#50640;&#49436; &#51096; &#50504;&#48372;&#51060;&#45912;&#45936;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176;&#45784; &#50500;&#51649; &#47784;&#47476;&#49512;&#44396;&#45208;. &#51200; &#55092;&#54617;&#45236;&#44256; &#44060;&#51064;&#44277;&#48512;&#54616;&#44256; &#51080;&#50612;&#50836;. &#49440;&#48176;&#45716; &#51648;&#44552; &#47952;&#54616;&#49464;&#50836;? &#46020;&#49436;&#44288;&#46020; &#51080;&#45716; &#45936; &#50780; &#44403;&#51060; &#50668;&#44592;&#49436;..</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#53468;&#50672;&#54620; &#52377;&#54616;&#47728;) &#50500; &#45208; &#50724;&#45720;&#51008; &#44277;&#44053;&#51060;&#50556;. &#44536;&#47000;&#49436; &#50668;&#44592;&#49436; &#44284;&#51228;&#54616;&#44256; &#51080;&#50612;. &#51328; &#51080;&#45796;&#44032; &#49828;&#53552;&#46356; &#44032;&#50556;&#46104;&#44144;&#46304;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51020;... &#44536;&#47084;&#49884;&#44396;&#45208;...(&#50976;&#51652; &#48124;&#51456;&#51032; &#48152;&#51648;&#47484; &#48372;&#47728;) &#49440;&#48176; &#51060;&#44148; &#47952;&#50640;&#50836;? &#52964;&#54540;&#47553;? </span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768; &#44536;&#45285; &#52828;&#54620;&#52828;&#44396;&#44032; &#49440;&#47932;&#47196; &#51480;&#49436; &#45180;&#44256;&#45796;&#45768;&#45716; &#44144;&#50556;. &#51456; &#49324;&#46988; &#49457;&#51032;&#44032; &#51080;&#51004;&#45768;&#44620;. &#45320;&#45716; &#48152;&#51648;&#44057;&#51008; &#44144; &#50504;&#44788;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#45348; &#51200;&#45716; &#51096; &#50504; &#45180;&#44256; &#45796;&#45376;&#50836;. &#51060;&#49104; &#48152;&#51648;&#44032; &#51665;&#50640; &#50630;&#44592;&#46020; &#54616;&#44256;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#48120;&#47896;&#54616;&#44172; &#54364;&#51221;&#51060; &#48148;&#45072;&#45796;)</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176; &#51200; &#49440;&#48176; &#50672;&#46973;&#52376;&#44032; &#50630;&#45716; &#44144; &#44057;&#45912;&#45936;. &#51204;&#54868;&#48264;&#54840; &#51328; &#51460; &#49688; &#51080;&#50612;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#45817;&#50672;&#55176; &#51460; &#49688; &#51080;&#51648;. &#44540;&#45936; &#55092;&#54617;&#54616;&#44256; &#45796;&#45800;&#44228; &#46308;&#50612;&#44036; &#44144; &#50500;&#45768;&#51648;? &#50696;&#51204;&#48512;&#53552; &#55092;&#54617;&#54620; &#50528;&#46308;&#51060; &#47932;&#44148;&#49324;&#46972;&#44256; &#51204;&#54868;&#50752;&#49436; &#47568;&#50556;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#44600;&#44256; &#49892;&#47581;&#54664;&#45796;&#45716; &#45576;&#48731;&#51004;&#47196;) &#50500; &#49440;&#48176; &#44536;&#47088;&#44144; &#50500;&#45768;&#50640;&#50836;. &#49899;&#51004;&#47732; &#51452;&#51648; &#47560;&#49464;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45264; &#51460;&#44172; &#51460;&#44172; &#48120;&#50504;&#54644;. &#50668;&#44592;. &#50616;&#51228; &#48165;&#51060;&#45208; &#54620; &#48264; &#47673;&#51088;. &#45236;&#44032; &#49332;&#44172;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#48124;&#51456; &#50976;&#51652;&#51032; &#54648;&#46300;&#54256;&#50640; &#51088;&#49888;&#51032; &#51204;&#54868;&#48264;&#54840;&#47484; &#52237;&#50612;&#51456;&#45796;. &#48124;&#51456;&#51008; &#51312;&#44552; &#54980;&#50640; &#52852;&#54168;&#47484; &#45208;&#44036;&#45796;. &#45208;&#44032;&#47732;&#49436; &#50976;&#51652;&#50640;&#44172; &#49552;&#51064;&#49324;&#47484; &#54620;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="6"><li class="c9"><span class="c13 c5">&#50976;&#51652;&#51032; &#51088;&#52712;&#48169;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652;. &#44277;&#48512;&#47484; &#54616;&#45796;&#44032; &#51088;&#44984; &#54648;&#46300;&#54256;&#51012; &#54869;&#51064;&#54620;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#54844;&#51107;&#47568;) &#50500;&#45768; &#50780; &#50500;&#47924; &#50672;&#46973;&#51060; &#50630;&#51648;? &#45236;&#44032; &#47676;&#51200; &#50672;&#46973;&#51012; &#54644;&#50556;&#46104;&#45208;?</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c7">-&#51088;&#51316;&#49900;&#51060; &#51080;&#51648;. &#44592;&#45796;&#47536;&#45796; s#6.1&#47196; or &#50672;&#46973;&#51012; &#54644;&#48376;&#45796; s#7&#47196;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c8 c2"><span class="c5 c12"></span></p><p class="c8 c2"><span class="c12 c5"></span></p><p class="c8 c2"><span class="c12 c5"></span></p><p class="c8 c2"><span class="c12 c5"></span></p><p class="c8"><span class="c5">s#6.1 &#45734;&#51008; &#48164; &#50976;&#51652;&#51032; &#52840;&#45824;&#50948;</span></p><p class="c8 c2"><span class="c6"></span></p><p class="c4"><span class="c0">&#44592;&#45796;&#47140;&#48372;&#51648;&#47564; &#51204;&#54784; &#50672;&#46973;&#51060; &#50724;&#51656; &#50506;&#45716;&#45796;. &#50976;&#51652; &#49892;&#47581;&#54620; &#52292;&#47196; &#55092;&#45824;&#54256;&#51012; &#45236;&#54077;&#44060;&#52824;&#44256; &#52840;&#45824;&#49549;&#50640; &#49704;&#50612;&#48376;&#45796; </span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4"><span class="c7">-s#6.2&#47196;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c8"><span class="c5">s#6.2 &#51088;&#52712;&#48169;</span></p><p class="c8 c2"><span class="c6"></span></p><p class="c4"><span class="c0">&#50976;&#51652;&#51008; &#54812;&#44221;&#50640;&#44172; &#51204;&#54868;&#47484; &#44152;&#50612; &#51312;&#50616;&#51012; &#44396;&#54620;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#47000;&#49436; &nbsp;&#44536;&#47088; &#49345;&#54889;&#51060;&#50556;. &#50612;&#46523;&#44172; &#54644;&#50556;&#46076;? &#54812;&#44221;&#50500;?</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50640;&#51060; &#44536;&#45285; &#54616;&#51648;&#47560; &#49440;&#48176;&#50672;&#46973; &#50504;&#50724;&#45716; &#44152; &#48372;&#45768;&#44620; &#45320;&#46020; &#51060;&#51228; &#44536;&#47111;&#44172; &#49888;&#44221;&#50416;&#51648;&#47560;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#47000; &#44536;&#47000;&#50556; &#46104;&#45208;?</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c7">-&#48124;&#51456;&#50640;&#44172; &#50672;&#46973;&#51012; &#54620;&#45796; s#7 or &#50672;&#46973;&#51012; &#50504;&#54620;&#45796; s#3.1</span></p><p class="c4 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="7"><li class="c9"><span class="c13 c5">&#50976;&#51652; &#51088;&#52712;&#48169; &#52852;&#53665;&#51004;&#47196; &#48124;&#51456;&#50640;&#44172; &#47928;&#51088;&#47484; &#48372;&#45240;&#45796;.</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176; &#51200; &#50976;&#51652;&#51064;&#45936;&#50836;. &#48165; &#49324;&#51452;&#49888;&#45796;&#44256; &#54616;&#49888; &#44144;. &#51060;&#48264; &#51452;&#47568;&#50640; &#48165; &#49324;&#51452;&#49464;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#51069;&#44256;&#45208;&#49436; 30&#48516;&#46244;&#50640; &#47928;&#51088;&#44032; &#50728;&#45796;)&#50612;? &#50500; &#44536;&#46412; &#45236;&#44032; &#48165; &#49324;&#51456;&#45796;&#44256; &#54664;&#50632;&#51648;. &#48120;&#50504;&#54616;&#45796;. &#45236;&#44032; &#47676;&#51200; &#50672;&#46973;&#54664;&#50612;&#50556;&#54664;&#45716;&#45936;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50521;&#45768;&#50640;&#50836;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768; &#50500;&#45768;&#50640;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#53664;&#50836;&#51068; 7&#49884; 000 &#50612;&#46412;? &#44316;&#52270;&#50500;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#45348; &#51339;&#50500;&#50836;. </span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#47000; &#44536;&#47100; &#44536;&#46412; &#48372;&#51088;. &#47676;&#51200; &#50672;&#46973;&#54664;&#50612;&#50556; &#54616;&#45716;&#45936; &#48120;&#50504;&#54616;&#45796; &#50556;. &#45236;&#44032; &#53664;&#50836;&#51068;&#50640; &#47579;&#51080;&#45716; &#44144; &#47566;&#51060; &#49324;&#51460;&#44172;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768;&#50640;&#50836; &#49440;&#48176; &#51200; &#51652;&#51676; &#44316;&#52270;&#50500;&#50836; &#48512;&#45812;&#44054;&#51648; &#47560;&#49464;&#50836;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652; &#52852;&#53665;&#51012; &#54620; &#54980;&#50640; &#44592;&#48516;&#51060; &#51339;&#50500;&#48372;&#51064;&#45796;. &#54812;&#44221;&#50640;&#44172; &#51204;&#54868;&#47484; &#44152;&#50612; &#51060; &#49324;&#49892;&#51012; &#51204;&#54644;&#51456;&#45796;. </span></p><p class="c4"><span class="c0">(&#48660;&#46972;&#48660;&#46972; &#51204;&#45804;&#54664;&#51020;)</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#45208;&#51592;&#47561;&#51060;) &#50500; &#44536; &#49440;&#48176; &#46608; &#44144;&#44592;&#45348;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50780;? &#47924;&#49832; &#47568;&#51060;&#50556;?</span></p><p class="c1"><span class="c0">&#54812;&#44221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45264;. &#44536; &#49440;&#48176; &#50696;&#51204;&#50640;&#46020; &#45236; &#52828;&#44396; &#45936;&#47532;&#44256; &#44144;&#44592; &#44052;&#50632;&#44144;&#46304;</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44144;&#44600; &#51339;&#50500;&#54616;&#49884;&#45208; &#48372;&#51648;. &#50556; &#45208; &#49892;&#52983;&#47673;&#44256; &#50732;&#44172;.</span></p><p class="c1"><span class="c0">&#54812;&#44221; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44277;&#51676;&#48165; &#47673;&#50612;&#49436; &#51339;&#44192;&#45796;. &#51060;&#45380;&#50500;. &#45772; &#45236; &#47787;&#44620;&#51648; &#47673;&#45716; &#45936; &#50780; &#49332;&#51008; &#45236;&#44032; &#45768; &#47787;&#44620;&#51648; &#52236;&#45264;.</span></p><p class="c1 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="8"><li class="c9"><span class="c13 c5">&#45824;&#54617;&#49373;&#46308;&#51060; &#47566;&#51060; &#47784;&#51064; &#48164; &#44144;&#47532; </span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#48164;&#44144;&#47532; &#54620;&#51201;&#54616;&#44592;&#46020; &#54616;&#51648;&#47564; &#44400;&#45936; &#44400;&#45936; &#45824;&#54617;&#49373;&#51060; &#48372;&#51064;&#45796;. &#50976;&#51652;&#51008; &#48165;&#51012; &#47579;&#51080;&#44172; &#47673;&#44256; &#48124;&#51456;&#44284; &#46356;&#51200;&#53944;&#47484; &#47673;&#44592;&#50948;&#54644; &#52286;&#50500;&#48376; &#52852;&#54168;&#47196; &#44032;&#45716; &#51473;&#51060;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#48165;&#51008; &#44316;&#52270;&#50520;&#50612;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#45348; &#47579;&#51080;&#50632;&#50612;&#50836;. &#44540;&#45936; &#45320;&#47924; &#47566;&#51060;&#47673;&#50612;&#49436; &#44152;&#50612;&#50556; &#46112; &#44144; &#44057;&#44596; &#54644;&#50836;. &#49440;&#48176; &#50864;&#47532; &#44151;&#44592;&#46020; &#54624;&#44216; &#51060; &#44540;&#52376;&#50640; &#47579;&#51080;&#45716; &#52852;&#54168;&#51080;&#45716; &#45936; &#44144;&#44592; &#44032;&#48380;&#47000;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#50883;&#51004;&#47728;) &#44151;&#44592;&#50948;&#54644;&#49436; &#52852;&#54168;&#47484; &#44032;&#45716; &#44144;&#50556;? &#52852;&#54168;&#47484; &#44032;&#44592;&#50948;&#54644;&#49436; &#44151;&#45716; &#44144;&#50556;? &#45208;&#45716; &#54980;&#51088;&#44057;&#51008;&#45936;?(&#46608; &#54620;&#48264; &#50883;&#51004;&#47728;) &#49569;&#50976;&#51652; &#45824;&#45800;&#54616;&#45348;. </span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768;&#44144;&#46304;&#50836; .</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#44264;&#47785;&#44600;&#50640; &#46308;&#50612;&#49456;&#45796;. &#46168;&#51060;&#49436; &#50724;&#48531;&#54616;&#44172; &#52852;&#54168;&#47484; &#52286;&#50500; &#44152;&#50612;&#44036;&#45796;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500; &#50668;&#44592; &#50612;&#46356; &#52196; &#51060;&#50632;&#45716;&#45936;. </span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#50976;&#51652;&#51004;&#47196; &#49324;&#46993;&#49828;&#47101;&#44172; &#52432;&#45796;&#48372;&#47728; &#48120;&#49548;&#47484; &#51667;&#45716;&#45796;) &#50500;&#51060;&#44396; &#50864;&#47532; &#54980;&#48176;&#45784; &#50756;&#51204;&#55176; &#44600;&#52824;&#49512;&#45348; &#51665;&#51008; &#50612;&#46523;&#44172; &#52286;&#50500;&#44032;&#49884;&#45208; &#47792;&#46972;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51004; &#49440;&#48176; &#50500;&#45768;&#44144;&#46304;&#50836;. &#50668;&#44592; &#52828;&#44396;&#44032; &#52628;&#52380;&#54644;&#51500;&#45716;&#45936; &#44536; &#47952;&#45264; &#44032;&#51221;&#51665;&#51012; &#47532;&#47784;&#45944;&#47553; &#54620;&#44144;&#46972;&#49436; &#52286;&#44592;&#44032; &#50612;&#47140;&#50868;&#44144;&#50640;&#50836;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652;&#51060; &#52286;&#44256;&#51080;&#45716; &#49324;&#51060;&#50640; &#44049;&#51088;&#44592; &#47582;&#51008; &#54200;&#50640;&#49436; &#51060;&#49244; &#50668;&#51088;&#44032; &#44152;&#50612;&#50728;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#51060;&#49244; &#50668;&#51088;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#48124;&#51456;&#50500;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50612;? 00&#45572;&#45208;. &#50668;&#44596; &#50924;&#51068;&#51060;&#50556;?</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652; &#54648;&#46300;&#54256; &#51648;&#46020;&#50612;&#54540;&#51012; &#48372;&#45796;&#44032; &#51060;&#49244;&#50668;&#51088;&#47484; &#52432;&#45796;&#48376;&#45796;. &#47956;&#44032; &#49548;&#50808;&#46108; &#45712;&#45196;&#51060;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#51060;&#49244; &#50668;&#51088;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500; &#45208; &#51060; &#44540;&#52376;&#50640; &#51089;&#50629;&#49892; &#54616;&#45208; &#44396;&#54624;&#44620; &#54616;&#44256;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#44256;&#44060;&#47484; &#49332;&#51677; &#45124;&#45909;&#51060;&#47728;) &#44536;&#47020;&#44396;&#45208;. &#50668;&#44592;&#45716; &#45236; &#54617;&#44368; &#54980;&#48176; &#49569;&#50976;&#51652;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50504;&#45397;&#54616;&#49464;&#50836;. &nbsp; &nbsp; &#51060;&#49244; &#50668;&#51088;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#45348; &#50504;&#45397;&#54616;&#49464;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51060;&#51901;&#51008; (&#45572;&#45208;&#47484; &#54620; &#48264; &#52432;&#45796;&#48372;&#44256;) &#45348; &#52828;&#54620; &#45572;&#45208; 000.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#51060;&#49244;&#45572;&#45208;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50976;&#51652;&#50472; &#44536;&#47100; &#48124;&#51456;&#51060;&#44032; &#51648;&#44552; &#51088;&#44592; &#46041;&#45348;&#44396;&#44221; &#49884;&#53020;&#51452;&#45716; &#44144;&#50556;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#52628;&#50612;&#49436; &#49552;&#51060; &#49884;&#47532;&#45796;) (&#51077;&#46020; &#50620;&#50612;&#49436; &#47568;&#51060; &#51096; &#50504;&#45208;&#50724;&#45716; &#46319;&#54616;&#45796;) &#50500;&#45544; &#51060; &#44540;&#52376;&#50640; &#52852;&#54168;.....</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#44032;&#48333;&#44172; &#47568;&#54616;&#47732;&#49436; &#50976;&#51652;&#51032; &#47568;&#51012; &#48783;&#45716;&#45796;) &#50500;&#45768; &#44536;&#45285; &#45936;&#51060;&#53944;&#51473;&#51060;&#50556;. &#45236;&#44032; &#50724;&#45720; &#50584; &#49324;&#47673;&#51060;&#44256; &#51080;&#50612;.(&#50976;&#51652;&#51060; &#46496;&#45716; &#44152; &#48148;&#46972;&#48372;&#47728;) &#52628;&#50892;? (&#50976;&#51652;&#51032; &#49552;&#51012; &#51105;&#44256; &#45433;&#50668;&#51456;&#45796;)</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652; &#49332;&#51677; &#45440;&#46976; &#44144; &#44057;&#45796;. &#44592;&#48516;&#51060; &#51060;&#49345;&#54644;&#51276;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#45572;&#45208; &#50668;&#44592; 000&#52852;&#54168; &#50612;&#46356;&#51080;&#45716; &#51648; &#50508;&#50500;? &#52628;&#50868;&#45936; &#48744;&#47532; &#46308;&#50612;&#44032;&#44172;.</span></p><p class="c1"><span class="c0">&#51060;&#49244;&#45572;&#45208;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500; &#44144;&#44592; &#50715;&#45216; 000&#50500;&#51200;&#50472; &#54616;&#49884;&#45912; &#49464;&#53441;&#49548; &#47582;&#51008;&#54200;&#50640; &#51080;&#50612;. &#44144;&#44592; &#50508;&#51648;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44144;&#44592;&#50688;&#44396;&#45208;. &#50508;&#44192;&#50612; &#45572;&#45208;. &#44256;&#47560;&#50892;. &#45796;&#51020;&#50640; &#48400;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#48124;&#51456; &#50976;&#51652;&#51012; &#45936;&#47532;&#44256; &#48148;&#47196; &#52852;&#54168;&#47196; &#44152;&#50612;&#44036;&#45796;. &#49552;&#51012; &#44845; &#51105;&#44256; &#51080;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="9"><li class="c9"><span class="c13 c5">&#50976;&#51652;&#51032; &#51088;&#52712;&#48169;, &#48164;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#50976;&#51652;&#51008; &#47956;&#44032; &#51060;&#49345;&#54616;&#45796;. &#51060; &#51060;&#49345;&#54620; &#45712;&#45196;&#51060; &#49899;&#51648;&#45716; &#50506;&#51648;&#47564; &#47956;&#44032; &#51060; &#45712;&#45196;&#51060; &#51061;&#49689;&#54620; &#44144; &#44057;&#45796;. &#50976;&#51652;&#51008; &#48124;&#51456;&#51032; &#52852;&#53665; &#54532;&#49324;&#47484; &#48376;&#45796;. &#50724;&#45720; &#47564;&#45212; &#51060;&#49244;&#45572;&#45208;&#50640;&#44172; &#49332;&#51677; &#51656;&#53804;&#49900;&#51060; &#45212;&#45796;. &#50976;&#51652;&#50640;&#44172; &#44536; &#51060;&#49244; &#50668;&#51088;&#51032; &#50620;&#44404;&#44284; &#48152;&#51648;&#44032; &#51088;&#44984; &#46496;&#50724;&#47480;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;nar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536; &#45376;.. &nbsp;&#50500;&#45768; &#44536; &#50668;&#51088;&#45716; &#47952;&#51648;? &nbsp;&#49440;&#48176;&#46993;&#46020; &#44900; &#52828;&#54620;&#44144; &#44057;&#45912;&#45936;. &#49440;&#48176;&#45716; &#50780; &#44536; &#45216; &#51060;&#54980;&#47196; &#50672;&#46973;&#51060; &#50630;&#45716;&#44144;&#51648;? &#47924;&#49832; &#51068;&#51060; &#51080;&#45716; &#44148;&#44032;? </span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c7">-&#51648;&#44552; &#54648;&#46300;&#54256;&#51012; &#46308;&#50612;&#49436; &#52852;&#53665;&#51012; &#54620;&#45796; s#10&#47196; or &#44592;&#45796;&#47536;&#47732;&#49436; &#50672;&#46973;&#51012; &#54616;&#51648; &#50506;&#45716;&#45796;. s#9.1&#47196;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c5 c14">s#9.1 &#50612;&#46160;&#50868; &#48124;&#51456;&#51032; &#48169;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#48124;&#51456; &#45572;&#44400;&#44032; &#51204;&#54868; &#53685;&#54868;&#47484; &#54616;&#45716; &#46319;&#54616;&#45796;. &#44536;&#47532; &#51339;&#51008; &#48516;&#50948;&#44592;&#45716; &#50500;&#45772; &#44163; &#44057;&#45796;. &#48124;&#51456; &#50500;&#51452; &#51312;&#44552;&#54616;&#44172; &#47568;&#54620;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#50557;&#44036; &#55141;&#48516;&#46108; &#49345;&#53468;&#47196;)&#50508;&#50500; &#45208;&#46020;. &#44540;&#45936; &#50612;&#51796; &#49688; &#50630;&#51094;&#50500;. &#51060;&#48264;&#50644; &#51060;&#48264;&#50640;&#45716; &#45796;&#47476;&#44192;&#51648;. </span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">-s#3.1&#47196;</span></p><p class="c1 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="10"><li class="c9"><span class="c13 c5">&#50976;&#51652;&#51032; &#48169; &#45734;&#51008; &#49352;&#48317;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#50976;&#51652;&#51008; &#50500;&#51452; &#50976;&#52824;&#54616;&#44172; &#48124;&#51456;&#50640;&#44172; &#52852;&#53665;&#51012; &#48372;&#45240;&#45796;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176; &#48148;&#48736;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#48148;&#47196; &#45813;&#51109;)&#50500;&#45768;? &#50780;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#45216; &#44536; &#50616;&#45768; &#47568;&#51060;&#50640;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51025;. &#44536; &#45572;&#45208;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#52852;&#54168;&#50640;&#49436; &#47568;&#54664;&#45912; &#44536; &#48152;&#51648;&#51452;&#49888; &#48516;&#51060;&#49884;&#51424;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;???? &#50500;&#45768;&#50556; zzz &#44536;&#44172; &#44417;&#44552;&#54664;&#44396;&#45208;. </span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.......&#50500;&#45768; &#44536;&#47111;&#44172; &#44417;&#44552;&#54620; &#44148; &#50500;&#45768;&#44396;&#50836;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45264; &#44536; &#45572;&#45208;&#44032; &#51456; &#48152;&#51648;&#47732; &#51060;&#47111;&#44172; &#44620;&#51648; &#45180;&#44256; &#45796;&#45768;&#51648;&#45716; &#50506;&#50520;&#44192;&#51648;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#48152;&#51648; &#51452;&#49888; &#48516; &#51204; &#50668;&#52828;&#51060;&#50640;&#50836;?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51020;... &#50557;&#44036; &#48373;&#51105;&#54644;.... &#45208;&#51473;&#50640; &#44592;&#54924;&#46104;&#47732; &#47568;&#54644;&#51460;&#44172;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#50976;&#51652; &#47924;&#50616;&#44032;&#44032; &#51032;&#49900;&#51789;&#51648;&#47564; &#44536;&#47000;&#46020; &#44536; &#50668;&#51088;&#44032; &#51456; &#48152;&#51648;&#44032; &#50500;&#45768;&#46972;&#45716; &#44144;&#50640; &#50504;&#49900;&#51060; &#46108;&#45796;. &#50976;&#51652; &#48124;&#51456;&#51032; &#54532;&#49324;&#47484; &#54620;&#48264; &#45908; &#48376;&#45796;. f.o.</span></p><p class="c3 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="11"><li class="c9"><span class="c5 c13">1&#45804; &#46244; &nbsp;&#52376;&#51020; &#47564;&#45212; &#44536; &#52852;&#54168;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#50976;&#51652;&#51008; &#52852;&#54168;&#50640; &#50505;&#50500; &#48124;&#51456;&#44284;&#51032; &#52852;&#53665;&#51012; &#45796;&#49884; &#51069;&#50612;&#48376;&#45796;. &#45000;&#50640;&#49436; &#48420;&#45912; &#49548;&#54408;&#51060; &#50612;&#45712;&#49352; &#52852;&#54168;&#50640; &#45208;&#50752;&#51080;&#45796;. &#50976;&#51652;&#51060; 3&#51068; &#51204;&#50640; &#48372;&#45240; &#47928;&#51088;&#50640; &#48124;&#51456;&#51008; &#45813;&#51109;&#51060; &#50630;&#45796;.</span></p><p class="c3"><span class="c0">&#50864;&#50672;&#55176; &#48124;&#51456;&#51060; &#52852;&#54168;&#47196; &#46308;&#50612;&#50728;&#45796;.</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176;!</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#45817;&#54889;) &#50612; &#50976;&#51652;&#50500;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#51088;&#47532;&#50640; &#50505;&#50500;&#49436;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176; &#50836;&#51608; &#48148;&#49240;&#49464;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50612; &#50836;&#49352; &#52828;&#44396;&#51068;&#51328; &#46037;&#45712;&#46972;&#44256; &#47728;&#52832;&#44036; &#51104;&#46020; &#47803;&#51108;&#50612;. &#45320;&#54620;&#53580; &#50672;&#46973; &#50728; &#51460;&#46020; &#47792;&#46992;&#45348; &#48120;&#50504;&#54616;&#45796;. </span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">-&#44536;&#47100; &#48120;&#47532; &#50672;&#46973;&#51012; &#54644;&#51452;&#49512;&#50612;&#50556;&#51424;. &#49324;&#46988; &#48148;&#48372; &#47564;&#46300;&#45716; &#44163;&#46020; &#50500;&#45768;&#44256; &#51060;&#44172; &#47952;&#50640;&#50836;. &#47728;&#52832;&#46041;&#50504;..</span></p><p class="c1"><span class="c0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c7">s#end1&#47196;</span></p><p class="c1"><span class="c0">or</span></p><p class="c1"><span class="c0">-&#44316;&#52270;&#50500;&#50836;. &#45824;&#49888;&#50640; &#45796;&#51020;&#48512;&#53552;&#45716; &#51060;&#47088; &#51068; &#51080;&#51004;&#47732; &#50672;&#46973;&#51012; &#51452;&#49464;&#50836;. &#50780; &#50672;&#46973;&#51060; &#50504;&#46104;&#45716; &#51648;&#45716; &#50508;&#50500;&#50556;&#51648; &#44592;&#45796;&#47540; &#49688; &#51080;&#51094;&#50500;&#50836;.</span></p><p class="c3"><span class="c0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c7">s#12.&#47196;</span></p><p class="c3 c2"><span class="c0"></span></p><p class="c3 c2"><span class="c0"></span></p><p class="c3 c2"><span class="c0"></span></p><p class="c1"><span class="c14 c5">s#end1. &#52852;&#54168;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44536;&#47100; &#48120;&#47532; &#50672;&#46973;&#51012; &#54644;&#51452;&#49512;&#50612;&#50556;&#51424;. &#49324;&#46988; &#48148;&#48372; &#47564;&#46300;&#45716; &#44163;&#46020; &#50500;&#45768;&#44256; &#51060;&#44172; &#47952;&#50640;&#50836;. &#47728;&#52832;&#46041;&#50504;..</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#48120;&#50504;&#54644;. &#50976;&#51652;&#50500;........... &#45208; &#51068;&#51060; &#48148;&#48736;&#49436; &#51060;&#47564; &#44032;&#48380;&#44172;. f.o.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="12"><li class="c9"><span class="c13 c5">&nbsp;&#52852;&#54168;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44316;&#52270;&#50500;&#50836;. &#45824;&#49888;&#50640; &#45796;&#51020;&#48512;&#53552;&#45716; &#51060;&#47088; &#51068; &#51080;&#51004;&#47732; &#50672;&#46973;&#51012; &#51452;&#49464;&#50836;. &#50780; &#50672;&#46973;&#51060; &#50504;&#46104;&#45716; &#51648;&#45716; &#50508;&#50500;&#50556;&#51648; &#44592;&#45796;&#47540; &#49688; &#51080;&#51094;&#50500;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44256;&#47560;&#50892;. &#45796;&#51020;&#48512;&#53552;&#45716; &#48120;&#47532; &#50672;&#46973;&#51012; &#51460;&#44172;. &#50500;&#45768; &#50672;&#46973;&#51060; &#45130;&#44592;&#51648; &#50506;&#44172; &#54624;&#44172;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#51452;&#48320; &#52852;&#54168;&#51032; &#54413;&#44221;&#51060; &#51648;&#45208;&#44036;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51060; &#48152;&#51648; &#51080;&#51094;&#50500; &#49324;&#49892; &#50696;&#51204; &#50668;&#51088;&#52828;&#44396;&#44032; &#51456; &#49440;&#47932;&#51060;&#50556;. &#51088;&#44592; &#51082;&#51648;&#47568;&#46972;&#45804;&#46972;&#44256;. &#51082;&#54784;&#51648;&#45716; &#44152; &#51452;&#47140;&#50892; &#54664;&#44144;&#46304;. &#44116;&#45716;. &#44536;&#47000;&#49436; &#44228;&#49549; &#45180;&#44256; &#51080;&#50612; &#51082;&#51648;&#50506;&#51012;&#47140;&#44256;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&#49689;&#50672;&#54620; &#48516;&#50948;&#44592;&#45796;) &#50500; &#44536;&#47000;&#49436; &#44536;&#47111;&#44172; &#44592;&#44256; &#51080;&#50632;&#44396;&#45208;. &#44540;&#45936; &#50696;&#51204;&#50640; &#44536;&#44144; &#52964;&#54540;&#47553; &#50500;&#45768;&#46972;&#47732;&#49436;&#50836;.</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#52964;&#54540;&#47553;&#51008; &#50500;&#45768;&#50556; &#44116;&#44032; &#51088;&#44592;&#45716; &#51060;&#51228; &#54596;&#50836;&#50630;&#45796;&#44256; &#45208;&#54620;&#53580; &#51456;&#44144;&#44144;&#46304;.</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176;&#54620;&#53580; &#48152;&#51648; &#54616;&#45208;&#47564;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51025;. &#51060;&#44144; &#48152;&#51648; &#54616;&#45208;&#47564;.</span></p><p class="c1 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="13"><li class="c9"><span class="c13 c5">&#52852;&#54168; &#48150;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c3"><span class="c0">&#49436;&#47196; &#51652;&#51648;&#54620; &#48516;&#50948;&#44592;&#47196; &#52852;&#54168;&#47484; &#45208;&#50728;&#45796;. &#50976;&#51652; &#47676;&#51200;&#45208;&#44032;&#45716; &#49440;&#48176;&#51032; &#50743;&#44611;&#51012; &#51105;&#45716;&#45796;. &#49440;&#48176;&#44032; &#46244;&#46028;&#50500;&#48376;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c7">-&#51648;&#44552;&#51060;&#45796; &#51339;&#50500;&#54620;&#45796;&#44256; &#47568;&#54616;&#51088; s#14&#47196;. or &#50500;&#51649;&#51008; &#44592;&#54924;&#44032; &#50500;&#45772; &#44144; &#44057;&#50500; s#end3&#47196;</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1"><span class="c14 c5">S#end3. &#52852;&#54168;&#48150;</span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768;&#50640;&#50836; &#44536;&#45285; &#45320;&#47924; &#47680;&#47532;&#44032;&#45716; &#44144; &#44057;&#50500;&#49436;&#50836;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#48124;&#51456; &#50976;&#51652;&#51012; &#52432;&#45796;&#48372;&#45908;&#45768; &#44152;&#51020;&#51012; &#47582;&#52628;&#50612; &#45208;&#44036;&#45796;.</span></p><p class="c4 c2"><span class="c0"></span></p><ol class="c11 lst-kix_list_1-0" start="14"><li class="c9"><span class="c13 c5">&#52852;&#54168; &#48150;</span></li></ol><p class="c4 c2"><span class="c0"></span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176; &#49440;&#48176;&#54620;&#53580; &#51200;&#45716; &#47952;&#50640;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#47924;&#49832;&#47568;&#51060;&#50556;? &#45348;&#44032; &#47952;&#45264;&#45768;?</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#51200;&#45716; &#49440;&#48176;&#44032; &#44145;&#51221;&#46076;&#49436; &#50672;&#46973;&#51060; &#50504;&#46104;&#45716; &#46041;&#50504; &#51104;&#46020; &#51096; &#47803; &#51108;&#45716;&#45936;. &#49440;&#48176;&#54620;&#53580;&#45716; &#51228;&#44032; &#50612;&#46500; &#51316;&#51116;&#50640;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.......</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#49440;&#48176;&#45716; &#50500;&#47924; &#44048;&#51221;&#50630;&#51060; &#54617;&#44368;&#54980;&#48176;&#46993; &#45800;&#46168;&#51060; &#45936;&#51060;&#53944;&#54624; &#49688; &#51080;&#50612;&#50836;? &#45224;&#51060; &#48372;&#46304; &#47568;&#46304; &#54980;&#48176; &#49552;&#46020; &#44536;&#47111;&#44172; &#45925;&#50025; &#51105;&#50500;&#51452;&#45208;&#50836;?</span></p><p class="c1"><span class="c0">&#48124;&#51456;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#50500;&#45768; &#50500;&#47924; &#44048;&#51221;&#51060; &#50630;&#45912; &#44148; &#50500;&#45768;&#50556;..</span></p><p class="c1"><span class="c0">&#50976;&#51652;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#44540;&#45936; &#47592;&#45216; &#45208; &#54844;&#51088;&#47564; &#49440;&#48176;&#54620;&#53580; &#45796;&#44032;&#44032;&#50836;?(&#50872;&#52965;&#44144;&#47532;&#47728;). &#49440;&#48176;&#45716; &#51200; &#49899;&#50612;&#50836;? &#50500;&#51649;&#46020; &#51204; &#50668;&#51088;&#52828;&#44396;&#46993; &#49324;&#44480;&#45716; &#44144; &#50500;&#45768;&#51094;&#50500;&#50836;. &#49440;&#48176;&#45716; &#50780; &#49324;&#46988; &#54775;&#44040;&#47532;&#44172; &#47564;&#46308;&#50612;&#50836;? &#45208;&#54620;&#53580;&#47564; &#51656;&#47928;&#51012; &#45912;&#51648;&#51648;&#47568;&#44256; &#49440;&#48176;&#46020; &#45813;&#54644;&#51452;&#49512;&#51004;&#47732; &#51339;&#44192;&#50612;&#50836;. &#51200; &#52280;&#51012;&#49457; &#51339;&#51008; &#49324;&#46988;&#51060; &#50500;&#45768;&#50640;&#50836;.(&#50872;&#44592;&#49884;&#51089;&#54616;&#47728;) &#49440;&#48176;&#44032; &#45912;&#51652; &#51656;&#47928;&#50640; &#45813;&#54624; &#49688; &#51080;&#45716; &#49324;&#46988;&#46020; &#50500;&#45768;&#44396;&#50836;. &#44540;&#45936; &#51200;&#45716; &#49828;&#49828;&#47196; &#45240; &#45813;&#51008; &#51080;&#50612;&#50836;. &#51200; &#49440;&#48176; &#51339;&#50500;&#54644;&#50836;. &#47566;&#51060; &#51339;&#50500;&#54644;&#50836;. (&#45576;&#47932;&#51012; &#45798;&#51004;&#47728;) &#49440;&#48176;&#45716; &#50780; &#45208;&#54620;&#53580; &#50504; &#45796;&#44032;&#50752;&#50836;? &#50504; &#45796;&#44032;&#50752;&#46020; &#51339;&#51004;&#45768;&#44620; &#47680;&#50612;&#51648;&#51648;&#47564; &#47568;&#50500;&#51480;&#50836;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4"><span class="c0">&#48124;&#51456; &#50976;&#51652;&#51012; &#50504;&#50500;&#51456;&#45796;. &#49552;&#44032;&#46973;&#50640;&#49436; &#48152;&#51648;&#44032; &#48372;&#51060;&#51648; &#50506;&#45716;&#45796;.</span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c1 c2"><span class="c0"></span></p><p class="c3 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c4 c2"><span class="c0"></span></p><p class="c3 c2"><span class="c0"></span></p></body></html>
+<p></p>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p align="center" class="a" style="text-align:center;word-break:keep-all">
+    <a name="_top"></a><span style="font-size:32.0pt;mso-bidi-font-size:11.0pt;
+line-height:160%">심야행</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:15.0pt;margin-right:0cm">
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoBodyText" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:15.0pt;margin-right:0cm">
+  <p align="right" class="MsoBodyText" style="margin-left:0cm;text-align:right;
+word-break:keep-all">작가<span lang="EN-US">: </span>양우석<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-align:justify;text-justify:inter-ideograph;
+text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#1.</span></span><!--[endif]-->한적한 카페<span lang="EN-US">, </span>오후 낮<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">민준과 깍지 낀 손가락<span lang="EN-US">, </span>카페에서 들리는 소리<span lang="EN-US">, </span>예쁜 카페의 구석 디자인<span lang="EN-US">, </span>일렁거리며 카페 안으로 들어오는 햇빛<span lang="EN-US">, </span>마주보며 웃어주던 민준의
+얼굴<span lang="EN-US">(</span>슬로우 모션<span lang="EN-US">)
+      <o:p></o:p>
+    </span></p>
+  <p class="a"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#2.</span></span><!--[endif]-->유진의 자취방 <span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">유진이 몽환적인 꿈을 꾸고 부스스 일어난다<span lang="EN-US">. </span>화장실에서 씻고 나와 핸드폰을 챙기고 시리얼을 먹을 준비를 한다<span lang="EN-US">. </span>혜경에게
+전화를 건다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>야
+이혜경 지금 뭐해<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>학교
+갈 준비하지 이년아<span lang="EN-US">. 1</span>교시를 넣는 게 아닌 데 띠바<span lang="EN-US">. </span>난
+너랑 달리 휴학을 안해서 졸나게 바빠요<span lang="EN-US">. </span>근데 왜 전화했어<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아
+그냥<span lang="EN-US">. </span>심심해서 전화했어<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그렇게
+할 일이 없냐<span lang="EN-US">? </span>할 일이 그렇게 없으면 와서 내 과제나 좀 도와줘라<span lang="EN-US">.</span>김덕진 이새끼는 교수가 아니라 구몬선생님같애<span lang="EN-US">. </span>과제를 끊임없이 줘요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>에이
+그렇게까지 심심하진 않아<span lang="EN-US">.(</span>서로 키득키득 웃는다<span lang="EN-US">)
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>뜸을
+들이다가<span lang="EN-US">) </span>근데 혜경아 너 민준선배 알지<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>약간
+놀란 듯이<span lang="EN-US">) </span>어 근데 왜<span lang="EN-US">? 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>담담하게<span lang="EN-US">) </span>아니 그냥 오늘 꿈에 나왔길래<span lang="EN-US">. </span>그나저나 오늘 꿈에서 그 선배랑
+데이트했다<span lang="EN-US">.(</span>대사 끝의 음정을 올리며<span lang="EN-US">, </span>약간 신나하면서<span lang="EN-US">)
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>데이트라는
+말에 놀랐지만 담담하게<span lang="EN-US">) </span>아이구 우리 송유진공주님 그게 그렇게 좋으세요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니<span lang="EN-US">. </span>아니<span lang="EN-US">. </span>그냥 꿈에 그 선배가 나온 게 특이해서<span lang="EN-US">. </span>신기하잖아<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그래
+그건 그렇다 치고 오늘 너 뭐할거야<span lang="EN-US">? </span>이따 저녁에 술이나 한잔 할래<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>에이
+됐어<span lang="EN-US">. </span>휴학생은 공부해야 돼<span lang="EN-US">. </span>그리고 술은 별로야<span lang="EN-US">. </span>그냥 밥먹는 거면 모를까<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>알겠어<span lang="EN-US">. </span>나혼자 술배나 찌라는 거지<span lang="EN-US">? </span>알겠어 끊어<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>웃는다<span lang="EN-US">) </span>아냐<span lang="EN-US">~. </span>그런 뜻<span lang="EN-US">. </span>그럼
+다음에 보자<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#3.</span></span><!--[endif]--><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;</span></span>유진의 침대<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm">편하게 누워있다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"> nar<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>흠<span lang="EN-US">.. </span>어차피 나가기 귀찮은 데 나갈까<span lang="EN-US">? </span>말까<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US" style="color:red">-</span><span style="color:red">나가면<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;</span>s#4.</span>으로<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span>or</span>안 나가면<span lang="EN-US"> s#3.1.</span>로 </span><span style="mso-spacerun:yes">&nbsp;</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">s#3.1.</span></b><span lang="EN-US"> </span>어둑어둑한 저녁 유진의 화장실<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">집에서 공부를 해서 피곤한 유진 이제 그만 잘 준비를 한다<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>치아를
+닸으며<span lang="EN-US">)</span>이만하면 됐어<span lang="EN-US">. </span>오늘 여기까지하고 푹 자고 내일 아침
+다시 하는 게 나아 <span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진은 이제 잘 준비를 하고 침대에 눕는다<span lang="EN-US">. </span>조명이
+꺼진다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="color:red">- s#3</span></b>
+    <b style="mso-bidi-font-weight:
+normal"><span style="color:red">으로 </span></b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#4.</span></span><!--[endif]-->햇볕이 좋은 아침 인테리어가 좋고 공부하기 편한 카페<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">카페문을 열고 들어오는 유진<span lang="EN-US">. </span>아메리카노를 주문한다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아메리카노
+한잔주세요<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">카페사장<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>테이크
+아웃인가요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아뇨
+매장에서 먹고 갈게요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;</span>
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">유진은 공부할 자리를 찾기위해 카페를 두리번 살펴본다<span lang="EN-US">. </span>카페 구석에서 혼자 과제를 하는 민준이 눈에 띈다<span lang="EN-US">. </span>유진 살짝 놀란다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"> nar<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>어<span lang="EN-US">? </span>저 선배가 왜 여기 있지<span lang="EN-US">? </span>가서 말이라도 걸어볼까<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US" style="color:red">-</span><span style="color:red">말을 건다<span lang="EN-US"> s#5.</span>로 말을 걸지 않는다<span lang="EN-US">. s#4.1</span>로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">s#4.1. </span>카페</b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진은 민준과 멀찍이 떨어져 혼자 공부하기 시작한다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>혼잣말<span lang="EN-US">)</span>굳이 말걸어서 피해주지말자<span lang="EN-US">. </span>선배님이 알아보시면 먼저 말하시겠지<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">시간이 좀 흐른 뒤 민준은 카페에서 나가는 길에 유진은
+쳐다보지만 말을 걸지 않고 그냥 나간다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US">nar<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>뭐야
+봤는데 말도 안걸잖아<span lang="EN-US">..... </span>그냥 내 공부나 하자<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">어느새 어두워진 저녁 카페 유진은 이제 공부를 마치고 자취방으로 돌아간다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">-s#3.1</span>로 <span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#5.</span></span><!--[endif]-->카페<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;</span>
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">유진 민준옆으로 아메리카노를 들고 다가간다<span lang="EN-US">. </span>맥북으로 과제를 하는 것 같은 민준 앞자리에 앉는다<span lang="EN-US">. </span>민준 갑자기
+앉은 유진을 보고 적당히 놀란 듯 하다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배
+안녕하세요<span lang="EN-US">. </span>저 아시죠<span lang="EN-US">? 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>귀에서
+이어폰을 빼면서<span lang="EN-US">) </span>어 유진아<span lang="EN-US">. </span>오랜만이야<span lang="EN-US">. </span>요새 뭐하고 지내<span lang="EN-US">? </span>학교에서 잘 안보이던데<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배님
+아직 모르셨구나<span lang="EN-US">. </span>저 휴학내고 개인공부하고 있어요<span lang="EN-US">. </span>선배는
+지금 뭐하세요<span lang="EN-US">? </span>도서관도 있는 데 왜 굳이 여기서<span lang="EN-US">..
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>태연한
+척하며<span lang="EN-US">) </span>아 나 오늘은 공강이야<span lang="EN-US">. </span>그래서 여기서 과제하고
+있어<span lang="EN-US">. </span>좀 있다가 스터디 가야되거든<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>음<span lang="EN-US">... </span>그러시구나<span lang="EN-US">...(</span>유진 민준의 반지를 보며<span lang="EN-US">) </span>선배 이건 뭐에요<span lang="EN-US">? </span>커플링<span lang="EN-US">? 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니
+그냥 친한친구가 선물로 줘서 끼고다니는 거야<span lang="EN-US">. </span>준 사람 성의가 있으니까<span lang="EN-US">. </span>너는 반지같은 거 안껴<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>네
+저는 잘 안 끼고 다녀요<span lang="EN-US">. </span>이뿐 반지가 집에 없기도 하고요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>미묘하게
+표정이 바뀐다<span lang="EN-US">)
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배
+저 선배 연락처가 없는 거 같던데<span lang="EN-US">. </span>전화번호 좀 줄 수 있어요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>당연히
+줄 수 있지<span lang="EN-US">. </span>근데 휴학하고 다단계 들어간 거 아니지<span lang="EN-US">? </span>예전부터
+휴학한 애들이 물건사라고 전화와서 말야<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>길고
+실망했다는 눈빛으로<span lang="EN-US">) </span>아 선배 그런거 아니에요<span lang="EN-US">. </span>싫으면 주지
+마세요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아냐
+줄게 줄게 미안해<span lang="EN-US">. </span>여기<span lang="EN-US">. </span>언제 밥이나 한 번 먹자<span lang="EN-US">. </span>내가 살게<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">민준 유진의 핸드폰에 자신의 전화번호를 찍어준다<span lang="EN-US">. </span>민준은 조금 후에 카페를 나간다<span lang="EN-US">. </span>나가면서 유진에게 손인사를 한다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#6.</span></span><!--[endif]-->유진의 자취방<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm">유진<span lang="EN-US">. </span>공부를 하다가 자꾸 핸드폰을
+확인한다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>혼잣말<span lang="EN-US">) </span>아니 왜 아무 연락이 없지<span lang="EN-US">? </span>내가 먼저 연락을 해야되나<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US" style="color:red">-</span><span style="color:red">자존심이 있지<span lang="EN-US">. </span>기다린다<span lang="EN-US"> s#6.1</span>로<span lang="EN-US"> or </span>연락을 해본다<span lang="EN-US"> s#7</span>로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">
+        <o:p>&nbsp;</o:p>
+      </span></b>
+  </p>
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">
+        <o:p>&nbsp;</o:p>
+      </span></b>
+  </p>
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">
+        <o:p>&nbsp;</o:p>
+      </span></b>
+  </p>
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">
+        <o:p>&nbsp;</o:p>
+      </span></b>
+  </p>
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">s#6.1 </span>늦은
+밤 유진의 침대위</b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">기다려보지만 전혀 연락이 오질 않는다<span lang="EN-US">. </span>유진
+실망한 채로 휴대폰을 내팽개치고 침대속에 숨어본다 <span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US" style="color:red">-s#6.2</span><span style="color:red">로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">s#6.2 </span>자취방</b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진은 혜경에게 전화를 걸어 조언을 구한다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그래서<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span></span>그런 상황이야<span lang="EN-US">. </span>어떻게 해야돼<span lang="EN-US">? </span>혜경아<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>에이
+그냥 하지마 선배연락 안오는 걸 보니까 너도 이제 그렇게 신경쓰지마<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그래
+그래야 되나<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US" style="color:red">-</span><span style="color:red">민준에게
+연락을 한다<span lang="EN-US"> s#7 or </span>연락을 안한다<span lang="EN-US"> s#3.1</span></span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#7.</span></span><!--[endif]-->유진 자취방 카톡으로 민준에게 문자를 보낸다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배
+저 유진인데요<span lang="EN-US">. </span>밥 사주신다고 하신 거<span lang="EN-US">. </span>이번 주말에 밥
+사주세요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>읽고나서<span lang="EN-US"> 30</span>분뒤에 문자가 온다<span lang="EN-US">)</span>어<span lang="EN-US">? </span>아
+그때 내가 밥 사준다고 했었지<span lang="EN-US">. </span>미안하다<span lang="EN-US">. </span>내가 먼저 연락했어야했는데<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>앙니에요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니
+아니에요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>토요일<span lang="EN-US"> 7</span>시<span lang="EN-US"> 000 </span>어때<span lang="EN-US">? </span>괜찮아<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>네
+좋아요<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그래
+그럼 그때 보자<span lang="EN-US">. </span>먼저 연락했어야 하는데 미안하다 야<span lang="EN-US">. </span>내가
+토요일에 맛있는 거 많이 사줄게<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니에요
+선배 저 진짜 괜찮아요 부담갖지 마세요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진 카톡을 한 후에 기분이 좋아보인다<span lang="EN-US">. </span>혜경에게
+전화를 걸어 이 사실을 전해준다<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">(</span>블라블라 전달했음<span lang="EN-US">)
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>나즈막이<span lang="EN-US">) </span>아 그 선배 또 거기네<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>왜<span lang="EN-US">? </span>무슨 말이야<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아냐<span lang="EN-US">. </span>그 선배 예전에도 내 친구 데리고 거기 갔었거든<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>거길
+좋아하시나 보지<span lang="EN-US">. </span>야 나 실컷먹고 올게<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">혜경<span lang="EN-US"> <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>공짜밥
+먹어서 좋겠다<span lang="EN-US">. </span>이년아<span lang="EN-US">. </span>닌 내 몫까지 먹는 데 왜 살은
+내가 니 몫까지 찌냐<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#8.</span></span><!--[endif]-->대학생들이 많이 모인 밤 거리 <span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">밤거리 한적하기도 하지만 군데 군데 대학생이 보인다<span lang="EN-US">. </span>유진은 밥을 맛있게 먹고 민준과 디저트를 먹기위해 찾아본 카페로 가는 중이다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>밥은
+괜찮았어<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>네
+맛있었어요<span lang="EN-US">. </span>근데 너무 많이먹어서 걸어야 될 거 같긴 해요<span lang="EN-US">. </span>선배
+우리 걷기도 할겸 이 근처에 맛있는 카페있는 데 거기 가볼래요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>웃으며<span lang="EN-US">) </span>걷기위해서 카페를 가는 거야<span lang="EN-US">? </span>카페를 가기위해서 걷는 거야<span lang="EN-US">? </span>나는 후자같은데<span lang="EN-US">?(</span>또 한번 웃으며<span lang="EN-US">)</span>송유진 대단하네<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니거든요<span lang="EN-US"> .
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">골목길에 들어섰다<span lang="EN-US">. </span>둘이서 오붓하게
+카페를 찾아 걸어간다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아
+여기 어디 쯤 이었는데<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>유진으로
+사랑스럽게 쳐다보며 미소를 짓는다<span lang="EN-US">) </span>아이구 우리 후배님 완전히 길치셨네 집은 어떻게 찾아가시나 몰라<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>으
+선배 아니거든요<span lang="EN-US">. </span>여기 친구가 추천해줬는데 그 뭐냐 가정집을 리모델링 한거라서 찾기가 어려운거에요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진이 찾고있는 사이에 갑자기 맞은 편에서 이쁜 여자가 걸어온다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">이쁜 여자<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>민준아<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>어<span lang="EN-US">? 00</span>누나<span lang="EN-US">. </span>여긴 웬일이야<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진 핸드폰 지도어플을 보다가 이쁜여자를 쳐다본다<span lang="EN-US">. </span>뭔가 소외된 느낌이다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">이쁜 여자<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아
+나 이 근처에 작업실 하나 구할까 하고<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>고개를
+살짝 끄덕이며<span lang="EN-US">) </span>그랬구나<span lang="EN-US">. </span>여기는 내 학교 후배 송유진<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>안녕하세요<span lang="EN-US">.<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span></span>이쁜 여자<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>네 안녕하세요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>이쪽은<span lang="EN-US"> (</span>누나를 한 번 쳐다보고<span lang="EN-US">) </span>네 친한 누나<span lang="EN-US"> 000.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">이쁜누나<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>유진씨
+그럼 민준이가 지금 자기 동네구경 시켜주는 거야<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>추어서
+손이 시리다<span lang="EN-US">) (</span>입도 얼어서 말이 잘 안나오는 듯하다<span lang="EN-US">) </span>아뇨
+이 근처에 카페<span lang="EN-US">.....
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>가볍게
+말하면서 유진의 말을 뺏는다<span lang="EN-US">) </span>아니 그냥 데이트중이야<span lang="EN-US">. </span>내가
+오늘 얘 사먹이고 있어<span lang="EN-US">.(</span>유진이 떠는 걸 바라보며<span lang="EN-US">) </span>추워<span lang="EN-US">? (</span>유진의 손을 잡고 녹여준다<span lang="EN-US">)
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">유진 살짝 놀란 거 같다<span lang="EN-US">. </span>기분이 이상해졌다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>누나
+여기<span lang="EN-US"> 000</span>카페 어디있는 지 알아<span lang="EN-US">? </span>추운데 빨리 들어가게<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">이쁜누나<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아
+거기 옛날<span lang="EN-US"> 000</span>아저씨 하시던 세탁소 맞은편에 있어<span lang="EN-US">. </span>거기
+알지<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>거기였구나<span lang="EN-US">. </span>알겠어 누나<span lang="EN-US">. </span>고마워<span lang="EN-US">. </span>다음에
+봐<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">민준 유진을 데리고 바로 카페로 걸어간다<span lang="EN-US">. </span>손을
+꼭 잡고 있다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#9.</span></span><!--[endif]-->유진의 자취방<span lang="EN-US">, </span>밤<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">유진은 뭔가 이상하다<span lang="EN-US">. </span>이 이상한 느낌이 싫지는 않지만 뭔가 이 느낌이 익숙한 거 같다<span lang="EN-US">. </span>유진은
+민준의 카톡 프사를 본다<span lang="EN-US">. </span>오늘 만난 이쁜누나에게 살짝 질투심이 난다<span lang="EN-US">.</span>유진에게 그 이쁜 여자의 얼굴과 반지가 자꾸 떠오른다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US">nar<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그
+녀<span lang="EN-US">..<span style="mso-spacerun:yes">&nbsp; </span></span>아니 그 여자는 뭐지<span lang="EN-US">?<span style="mso-spacerun:yes">&nbsp; </span></span>선배랑도 꽤 친한거 같던데<span lang="EN-US">. </span>선배는 왜 그 날 이후로 연락이 없는거지<span lang="EN-US">? </span>무슨 일이 있는 건가<span lang="EN-US">? 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US" style="color:red">-</span><span style="color:red">지금
+핸드폰을 들어서 카톡을 한다<span lang="EN-US"> s#10</span>로<span lang="EN-US"> or </span>기다린면서 연락을
+하지 않는다<span lang="EN-US">. s#9.1</span>로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">s#9.1 </span>어두운
+민준의 방</b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">민준 누군가 전화 통화를 하는 듯하다<span lang="EN-US">. </span>그리 좋은 분위기는 아닌 것 같다<span lang="EN-US">. </span>민준 아주 조금하게 말한다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>약간
+흥분된 상태로<span lang="EN-US">)</span>알아 나도<span lang="EN-US">. </span>근데 어쩔 수 없잖아<span lang="EN-US">. </span>이번엔 이번에는 다르겠지<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">-s#3.1</span>로<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#10.</span></span><!--[endif]-->유진의 방 늦은 새벽<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm">유진은 아주 유치하게 민준에게 카톡을 보낸다<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배
+바빠요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>바로
+답장<span lang="EN-US">)</span>아니<span lang="EN-US">? </span>왜<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그날
+그 언니 말이에요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>응<span lang="EN-US">. </span>그 누나<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>카페에서
+말했던 그 반지주신 분이시죠<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>????</span>아니야<span lang="EN-US"> zzz </span>그게 궁금했구나<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.......</span>아니
+그렇게 궁금한 건 아니구요<span lang="EN-US">.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp; </span>
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아냐
+그 누나가 준 반지면 이렇게 까지 끼고 다니지는 않았겠지<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>반지
+주신 분 전 여친이에요<span lang="EN-US">?<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>음<span lang="EN-US">... </span>약간 복잡해<span lang="EN-US">.... </span>나중에 기회되면 말해줄게<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">유진 무언가가 의심쩍지만 그래도 그 여자가 준 반지가
+아니라는 거에 안심이 된다<span lang="EN-US">. </span>유진 민준의 프사를 한번 더 본다<span lang="EN-US">.
+f.o.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#11.</span></span><!--[endif]--><span lang="EN-US">1</span>달 뒤<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span></span>처음 만난 그 카페<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">유진은 카페에 앉아 민준과의 카톡을 다시 읽어본다<span lang="EN-US">. </span>꿈에서 봤던 소품이 어느새 카페에 나와있다<span lang="EN-US">. </span>유진이<span lang="EN-US"> 3</span>일 전에 보낸 문자에 민준은 답장이 없다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">우연히 민준이 카페로 들어온다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배<span lang="EN-US">!
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>당황<span lang="EN-US">) </span>어 유진아<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm">자리에 앉아서<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배
+요즘 바쁘세요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>어
+요새 친구일좀 돕느라고 며칠간 잠도 못잤어<span lang="EN-US">. </span>너한테 연락 온 줄도 몰랐네 미안하다<span lang="EN-US">. 
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">-</span>그럼 미리 연락을 해주셨어야죠<span lang="EN-US">. </span>사람
+바보 만드는 것도 아니고 이게 뭐에요<span lang="EN-US">. </span>며칠동안<span lang="EN-US">..
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US" style="color:red">s#end1</span><span style="color:red">로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">or
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">-</span>괜찮아요<span lang="EN-US">. </span>대신에 다음부터는 이런
+일 있으면 연락을 주세요<span lang="EN-US">. </span>왜 연락이 안되는 지는 알아야지 기다릴 수 있잖아요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US"><span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US" style="color:red">s#12.</span><span style="color:red">로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">s#end1. </span>카페</b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>그럼
+미리 연락을 해주셨어야죠<span lang="EN-US">. </span>사람 바보 만드는 것도 아니고 이게 뭐에요<span lang="EN-US">.</span>며칠동안<span lang="EN-US">..
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>미안해<span lang="EN-US">. </span>유진아<span lang="EN-US">........... </span>나 일이 바빠서 이만 가볼게<span lang="EN-US">. f.o.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#12.</span></span><!--[endif]--><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;</span></span>카페<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>괜찮아요<span lang="EN-US">. </span>대신에 다음부터는 이런 일 있으면 연락을 주세요<span lang="EN-US">. </span>왜 연락이 안되는
+지는 알아야지 기다릴 수 있잖아요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>고마워<span lang="EN-US">. </span>다음부터는 미리 연락을 줄게<span lang="EN-US">. </span>아니 연락이 끊기지 않게 할게<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">주변 카페의 풍경이 지나간다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>이
+반지 있잖아 사실 예전 여자친구가 준 선물이야<span lang="EN-US">. </span>자기 잊지말라달라고<span lang="EN-US">.</span>잊혀지는 걸 주려워 했거든<span lang="EN-US">. </span>걔는<span lang="EN-US">. </span>그래서 계속
+끼고 있어 잊지않을려고<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(</span>숙연한
+분위기다<span lang="EN-US">) </span>아 그래서 그렇게 기고 있었구나<span lang="EN-US">. </span>근데 예전에
+그거 커플링 아니라면서요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>커플링은
+아니야 걔가 자기는 이제 필요없다고 나한테 준거거든<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배한테
+반지 하나만요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>응<span lang="EN-US">. </span>이거 반지 하나만<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#13.</span></span><!--[endif]-->카페 밖<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm">서로 진지한 분위기로 카페를 나온다<span lang="EN-US">. </span>유진 먼저나가는 선배의 옷깃을 잡는다<span lang="EN-US">. </span>선배가 뒤돌아본다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US" style="color:red">-</span><span style="color:red">지금이다
+좋아한다고 말하자<span lang="EN-US"> s#14</span>로<span lang="EN-US">. or </span>아직은 기회가 아닌 거
+같아<span lang="EN-US"> s#end3</span>로</span><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2">
+    <b style="mso-bidi-font-weight:normal"><span lang="EN-US">S#end3. </span>카페밖</b><span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니에요
+그냥 너무 멀리가는 거 같아서요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">민준 유진을 쳐다보더니 걸음을 맞추어 나간다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a0" style="margin-left:13.2pt;text-indent:-13.2pt;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:&quot;함초롬바탕 확장&quot;"><span style="mso-list:Ignore">s#14.</span></span><!--[endif]-->카페 밖<span lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배
+선배한테 저는 뭐에요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>무슨말이야<span lang="EN-US">? </span>네가 뭐냐니<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>저는
+선배가 걱정돼서 연락이 안되는 동안 잠도 잘 못 잤는데<span lang="EN-US">. </span>선배한테는 제가 어떤 존재에요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.......
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>선배는
+아무 감정없이 학교후배랑 단둘이 데이트할 수 있어요<span lang="EN-US">? </span>남이 보든 말든 후배 손도 그렇게 덥썩 잡아주나요<span lang="EN-US">?
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">민준<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>아니
+아무 감정이 없던 건 아니야<span lang="EN-US">..
+      <o:p></o:p>
+    </span></p>
+  <p class="a2">유진<span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>근데
+맨날 나 혼자만 선배한테 다가가요<span lang="EN-US">?(</span>울컥거리며<span lang="EN-US">). </span>선배는
+저 싫어요<span lang="EN-US">? </span>아직도 전 여자친구랑 사귀는 거 아니잖아요<span lang="EN-US">. </span>선배는
+왜 사람 헷갈리게 만들어요<span lang="EN-US">? </span>나한테만 질문을 던지지말고 선배도 답해주셨으면 좋겠어요<span lang="EN-US">. </span>저 참을성 좋은 사람이 아니에요<span lang="EN-US">.(</span>울기시작하며<span lang="EN-US">) </span>선배가 던진 질문에 답할 수 있는 사람도 아니구요<span lang="EN-US">. </span>근데 저는 스스로
+낸 답은 있어요<span lang="EN-US">. </span>저 선배 좋아해요<span lang="EN-US">. </span>많이 좋아해요<span lang="EN-US">. (</span>눈물을 닦으며<span lang="EN-US">) </span>선배는 왜 나한테 안 다가와요<span lang="EN-US">? </span>안 다가와도 좋으니까 멀어지지만 말아줘요<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm">민준 유진을 안아준다<span lang="EN-US">. </span>손가락에서 반지가
+보이지 않는다<span lang="EN-US">.
+      <o:p></o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm">
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a2"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:10.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+  <p class="a1" style="margin-left:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
+none black 0cm;padding:0cm 0cm 0cm 0cm;margin-left:20.0pt;margin-right:0cm">
+  <p class="a1" style="margin-left:0cm;text-indent:0cm"><span lang="EN-US">
+      <o:p>&nbsp;</o:p>
+    </span></p>
+</div>
+<br>
+<p></p>
