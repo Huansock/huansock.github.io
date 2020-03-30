@@ -4,16 +4,21 @@ title: 심야행
 date: 2020-03-30 22:09:47
 excerpt: "프로젝트 심야행"
 tag:  
-- test 
+- 심야행 
 project: true
+comments: true
 ---
+<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=bCz5RW5JtBg" frameborder="0"> </iframe>
 
+친구와 함께 진행 중에 있는 인터랙티브 드라마 심야행의 시나리오입니다.
+블로그 내의 저작권은 MIT저작권을 준수하고 있으며
+무단배포및 도용은 법적제재를 받으실 수 있습니다.
 <p></p>
 <div style="mso-element:para-border-div;border:none black 1.0pt;mso-border-alt:
 none black 0cm;padding:0cm 0cm 0cm 0cm">
   <p align="center" class="a" style="text-align:center;word-break:keep-all">
     <a name="_top"></a><span style="font-size:32.0pt;mso-bidi-font-size:11.0pt;
-line-height:160%">심야행</span><span lang="EN-US">
+line-height:160%">🚇심야행</span><span lang="EN-US">
       <o:p></o:p>
     </span></p>
   <p class="a2"><span lang="EN-US">
