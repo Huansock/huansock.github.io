@@ -6,24 +6,48 @@ date: 2020-03-26 22:15:54
 comments: true
 ---
     
-# 환속의 블로그
+# 환속
 
-약 1년 전 부터 혼자서 코딩을 배우고있다. 현재 html.css,js 를 잘 사용하고 Python과 Django도 사용할 줄 안다.  
+환속(還俗)은 승려가 됐던 사람이 다시 속인으로 돌아오는 것을 가리킨다. 환속한 사람도 다시 출가하여 승려가 될 수 있다. 출가와 환속을 일곱 번까지 반복할 수 있지만 다음 네가지 바라이를 범해 추방된 사람은 재출가 할 수 없다.
 
-내 생각을 쓸 블로그를 찾고 있던 도중, Jekyll이라는 오픈소스를 알게 되었다. Jekyll은 프론트 엔드 언어와 Ruby로 작동되고 Git을 통해 퍼블리싱을 할 수 있다. 풀스택 개발자가 되고 싶기에 Jykell을 선택했다.
+불살생계(不殺生戒) : 사람을 죽임
+불투도계(不偸盜戒) : 도둑질함.
+불사음계(不邪婬戒) : 음란한 짓을 함.
+불망어계(不妄語戒) : 깨닫지 못하고서 깨달았다고 거짓말함
 
-나의 생각을 써내려가며 정리를 할 예정이다. 그 과정에서 나의 markdown 실력이 늘었으면 좋겠다.  
+출처: 위키백과
 
-앞으로 이런 저런 어플과 웹, 프로그램을 만들 생각이다. 솔직히 말하면 어플과 웹쪽에만 관심이 있다. 그렇기에 os나 프로그램 언어는 나중에 배울 듯 싶다. 앞으로는 웹언어와 어플 언어!? 그리고 백엔드 언어를 배울 것이다.
-##### 독일어 시험을 성공적으로 끝마치고 나서부터!
+환속: The circle indicates that the person who became a monk is returning to the trick. A person who has a chance to return can also become a monk. It is possible to repeat the ritual and the ringing up to seven times,but the person who is expelled by the following four things can not go back. 
+<br>
+1. Fatal Livelihood: Killing a person. 
+2. Immortality: Doing obscene things. 
+3. Fenghua: lie that I realized that I did not realize ....
+
+--- 
+
+# to become a Computer programmer
+
+<br>
+
+- SASS 
+- React
+- Django
+- React native
+- Bootstrap
+- JavaScript
+- TypeScript
+- Webpack
+- UX
+
+<br>
+
+I'm going to learn those things in a few months. If you know good way about Development-learning. then Please Send an email to me.
 
 ---
+# Reason why i make this Blog
 
-이 블로그를 운영하며 사람과 소통을 하면 좋겠고 더불어 글쓰기와 공부가 익숙해졌으면 좋겠다. 어쩌면 지금 나는 익숙해져가는 중일지도 모르겠다.
+이 블로그를 통해 잡생각들을 적어볼까 합니다.
+블로그에 남은 잡생각들이 잘 썩어 비료가 되길 바랍니다.
+비료아래에 열심히 씨 뿌리고 농사 짓다보면 언젠가 행복한 농부가 되어있지 않을까요?
+행복한 농부까지는 아니더라도 소박한 농부는 될 수 있지 않을까요? 
 
-맞춤법 지적이나 당신의 생각은 언제나 환영이다. 댓글을 써주시거나 이메일을 보내주신다면 더할나위 없이 감사하겠다. (과도한 지적만 아니면 모든 지적을 언제나 받아드리겠다.)
-
-나의 블로그를 읽어주어서 감사하다. 더 좋은 글로 보답하겠다.
-
----
-이 블로그는 구글 애널리틱스로 실시간 분석되고 있다. toc, 카테고리 등등 쓰지 못하는 기능들이 존재하여 결국에는 장고로 갈아탈 것 같다.
