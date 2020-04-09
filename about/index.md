@@ -27,7 +27,12 @@ I'm not a monk. but sometimes i feel like i'm a monk. similar to monk, I do medi
 
 I have a Question to my self. A monk, who returned to the trick, is a normal person or still a monk? like Schrödinger's katze, I think that the monk is half normal half monk.
 
-This is really fundamental Question to me. Because I always reflect myself. compared to mine Shakespeare's Question 'to be or not to be' is simple. cause there is no selection 'half being half not being' 
+This is really fundamental Question to me. Because I always reflect myself. compared to mine Shakespeare's Question 'to be or not to be' is simple. cause there is no selection 'half being half not being'
+
+## Hello everyone. 
+## I'm a Huan sock. 
+## I think a lot. 
+## and I know it's problem.
 
 --- 
 
