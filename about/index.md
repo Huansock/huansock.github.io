@@ -5,13 +5,9 @@ tags: [about]
 date: 2020-03-26 22:15:54
 comments: true
 ---
- <style>
-      p{
-        text-align: center;
-      }
-</style>
 
-<p>  
+
+<div align="center">  
 
 # Huan sock [hwan sog]
 
@@ -58,4 +54,4 @@ I'm going to learn those things in a few months. If you know good way about Prog
 
 행복한 농부까지는 아니더라도 소박한 농부는 될 수 있지 않을까요?   
 
-</p>
+</div>
