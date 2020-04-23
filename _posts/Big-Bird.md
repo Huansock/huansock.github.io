@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Project: Big Bird"
+date: 2020-04-24 00:59:06
+excerpt: "건강 프로젝트(Health project)"
+tags: [project]
+toc_sticky: ture
+project: true
+---
+
+#  목표: 몸무게를 올해 75kg까지 찌우기 / Goal: gain weight up to 75kg
+
+--- 
+
+## 방법: 명상, 요가, 헬스 /  Method : Mindfullness, Ashtanga primary yoga, Work out
+
+몸이 많이 망가졌다. 그간 요가로 어느 정도 풀어주었던 몸은 고된 노동으로 인해 빠르게 굳었다. 
+공부와 알바를 병행하면서 체력의 한계를 깨닫고 있다. 내가 무언가를 할 때, 체력은 필수인 것 같다. 
+일차적으로는 살을 찌우고 체력을 기르는 데 집중하려고 한다. 좋은 몸매나 근육보다 지금 내게 필요한 건 힘이다.
+
+명상은 머리를 비워주고 요가는 몸을 일깨워 주며 헬스는 힘을 길러준다. 
+
+---
+
+### 일정 / Daily Routine
+
+- 평일 11시 전에 잠들기 / go to sleep until 10pm 
+- 아침 7시에 일어나기 / wake up at 6am
+- 아침 요가 30분 / do Ashtanga yoga 30 minutes
+- 명상하기 / next, do meditation
+- 아침 꼭 먹기 / eat breakfast everyday
+- 1시간 씩 운동하기 / 1 Hour work out every day 
+
+일정이 많아 보이지만 잠와 아침식사를 빼면 고작 3개 밖에 되지 않는다. 내가 해야 되는 일정을 세우지 않고 내가 하고 싶은 일정을 세웠기 때문에 부담이 크게 느껴지지는 않는다. 매일 쓰는 리포트에 일정을 달성해나가는 과정을 기록하니, 관심이 있는 사람은 [프로젝트 0s](/_posts/0s.md/)를 찾아보길 바란다.
