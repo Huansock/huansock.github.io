@@ -3,7 +3,7 @@ layout: post
 title: "이미지를 넣은 포스트 예시"
 date: 2020-03-26 21:19:22
 excerpt: "A ton of text to test readability with image feature."
-tags: [ test, image, feature]
+tags: [ jekyll]
 feature: assets/img/In-the-mood-for-love4.jpg
 ---
 

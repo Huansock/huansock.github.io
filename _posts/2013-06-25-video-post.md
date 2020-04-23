@@ -4,7 +4,7 @@ title:  "A Post with a Video"
 date:   2020-03-26 21:31:50
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
-- sample
+- jekyll
 comments: true
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
