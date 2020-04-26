@@ -3,8 +3,7 @@ layout: post
 title: 🚇심야행
 date: 2020-03-30 22:09:47
 excerpt: "프로젝트 심야행"
-tag:  
-[심야행, general projects]
+tag:  [심야행, general projects]
 project: true
 comments: true
 ---
